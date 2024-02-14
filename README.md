@@ -13,8 +13,12 @@
 * [Laravel Artisan Cheatsheet](https://artisan.page/)
 * [Splade](https://splade.dev/)
 * [InertiaJS](https://inertiajs.com/)
+
+# Livewire
+
 * [Laravel Livewire](https://laravel-livewire.com/)
 * [Tallstack UI](https://tallstackui.com/)
+* [Livewire PowerGrid](https://livewire-powergrid.com/)
 
 # Laravel Nova
 
