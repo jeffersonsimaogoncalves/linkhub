@@ -14,6 +14,7 @@
 * [Splade](https://splade.dev/)
 * [InertiaJS](https://inertiajs.com/)
 * [Laravel Livewire](https://laravel-livewire.com/)
+* [Tallstack UI](https://tallstackui.com/)
 
 # Laravel Nova
 
