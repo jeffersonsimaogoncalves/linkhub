@@ -23,6 +23,7 @@
 # FilamentPHP
 * [Filament PHP](https://filamentphp.com/)
 * [FilaPanel](https://filapanel.com/)
+* [Shield](https://github.com/bezhanSalleh/filament-shield)
 
 # Laravel Nova
 
