@@ -19,7 +19,10 @@
 * [Laravel Livewire](https://laravel-livewire.com/)
 * [Tallstack UI](https://tallstackui.com/)
 * [Livewire PowerGrid](https://livewire-powergrid.com/)
+
+# FilamentPHP
 * [Filament PHP](https://filamentphp.com/)
+* [FilaPanel](https://filapanel.com/)
 
 # Laravel Nova
 
