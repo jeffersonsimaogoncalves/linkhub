@@ -19,11 +19,23 @@
 * [Laravel Livewire](https://laravel-livewire.com/)
 * [Tallstack UI](https://tallstackui.com/)
 * [Livewire PowerGrid](https://livewire-powergrid.com/)
+* [Wire in the Wild](https://wireinthewild.com/)
+* [Wirebox](https://wirebox.app/)
+* [Curso de Livewire](https://www.youtube.com/watch?v=lMNpKM3TbJw&list=PLVSNL1PHDWvTH6zKPGTfxEdpv1sN0VbeV)
 
 # FilamentPHP
 * [Filament PHP](https://filamentphp.com/)
 * [Filapanel](https://filapanel.com/)
 * [Shield](https://github.com/bezhanSalleh/filament-shield)
+* [Filament Components](https://www.filamentcomponents.com/)
+* [Dinero](https://github.com/Shipu/dinero)
+* [Payvel][https://github.com/afsakar/payvel]
+* [Tall Commerce](https://github.com/sahapranta/tall_ecommerce)
+* [Barbershop](https://github.com/Peagah-Vieira/Laravel-Barbershop)
+* [Google Maps](https://github.com/cheesegrits/filament-google-maps)
+* [Build CMS Course](https://www.youtube.com/playlist?list=PLjCZ5YN4HlacfJ_CR-CkwVBKWGC-z5_T-)
+* [FilamentGlow](https://filamentglow.com/)
+* 
 
 # Laravel Nova
 
