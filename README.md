@@ -26,6 +26,8 @@
 * [InertiaJS](https://inertiajs.com/)
 * [Laravel Payment Gateways](https://github.com/stephenjude/laravel-payment-gateways)
 * [Laravel Auto Translate](https://github.com/devaslanphp/auto-translate)
+* [Laravel Simple Query Filter](https://github.com/stephenjude/simple-query-filter)
+* [Laravel Api Toolkit](https://github.com/JustSteveKing/laravel-api-toolkit)
 
 # Livewire
 
@@ -65,6 +67,13 @@
 * [Laraticket](https://github.com/dorianneto/laraticket)
 * [Plaid](https://github.com/andrewdwallo/plaid)
 * [Laravel Multi DB](https://github.com/uxweb/laravel-multi-db)
+* [School Management System](https://github.com/Samir-Gamal/school-management-system)
+* [Laravel Jetstream CRUD Roles](https://github.com/LaravelDaily/Laravel-Jetstream-CRUD-Roles)
+* [Laravel AdminPanel](https://github.com/FTXInfotech/laravel-adminpanel)
+
+# Curso
+
+* [Curso Laravel Relacionamentos Tabelas](https://github.com/especializati/curso-laravel-relacionamentos-tabelas)
 
 # Frameworks
 
