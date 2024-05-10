@@ -13,6 +13,7 @@
 * [Laravel Artisan Cheatsheet](https://artisan.page/)
 * [Splade](https://splade.dev/)
 * [InertiaJS](https://inertiajs.com/)
+* [Laravel Payment Gateways](https://github.com/stephenjude/laravel-payment-gateways)
 
 # Livewire
 
@@ -24,27 +25,31 @@
 * [Curso de Livewire](https://www.youtube.com/watch?v=lMNpKM3TbJw&list=PLVSNL1PHDWvTH6zKPGTfxEdpv1sN0VbeV)
 
 # FilamentPHP
+
 * [Filament PHP](https://filamentphp.com/)
 * [Filapanel](https://filapanel.com/)
 * [Shield](https://github.com/bezhanSalleh/filament-shield)
 * [Filament Components](https://www.filamentcomponents.com/)
-* [Dinero](https://github.com/Shipu/dinero)
-* [Payvel](https://github.com/afsakar/payvel)
-* [Tall Commerce](https://github.com/sahapranta/tall_ecommerce)
-* [Barbershop](https://github.com/Peagah-Vieira/Laravel-Barbershop)
-* [Google Maps](https://github.com/cheesegrits/filament-google-maps)
+* [Filament Google Maps](https://github.com/cheesegrits/filament-google-maps)
 * [Build CMS Course](https://www.youtube.com/playlist?list=PLjCZ5YN4HlacfJ_CR-CkwVBKWGC-z5_T-)
 * [FilamentGlow](https://filamentglow.com/)
 * [Filament General Settings](https://github.com/joaopaulolndev/filament-general-settings)
+* [Filament Jetstream](https://github.com/stephenjude/filament-jetstream)
+* [Filament Json Media](https://github.com/webplusmultimedia/filament-json-media)
 
 # Laravel Nova
 
 * [Laravel Nova](https://nova.laravel.com)
 * [Nova Packages](https://novapackages.com/)
 
-# Laravel Admin
+# Starts Kit Laravel
 
+* [Freezer Control](https://github.com/icarojobs/freezer-control)
 * [SleepingOwlAdmin](https://github.com/LaravelRUS/SleepingOwlAdmin)
+* [Barbershop](https://github.com/Peagah-Vieira/Laravel-Barbershop)
+* [Payvel](https://github.com/afsakar/payvel)
+* [Dinero](https://github.com/Shipu/dinero)
+* [Tall Commerce](https://github.com/sahapranta/tall_ecommerce)
 
 # Frontend
 
