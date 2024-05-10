@@ -51,6 +51,15 @@
 * [Dinero](https://github.com/Shipu/dinero)
 * [Tall Commerce](https://github.com/sahapranta/tall_ecommerce)
 * [Laraticket](https://github.com/dorianneto/laraticket)
+* [Plaid](https://github.com/andrewdwallo/plaid)
+
+# Frameworks
+
+* [mithril.js](https://github.com/MithrilJS/mithril.js)
+
+# Tailwindcss
+
+* [Tailblocks](https://github.com/mertJF/tailblocks)
 
 # Frontend
 
