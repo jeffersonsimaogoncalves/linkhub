@@ -25,6 +25,7 @@
 * [Splade](https://splade.dev/)
 * [InertiaJS](https://inertiajs.com/)
 * [Laravel Payment Gateways](https://github.com/stephenjude/laravel-payment-gateways)
+* [Laravel Auto Translate](https://github.com/devaslanphp/auto-translate)
 
 # Livewire
 
@@ -63,6 +64,7 @@
 * [Tall Commerce](https://github.com/sahapranta/tall_ecommerce)
 * [Laraticket](https://github.com/dorianneto/laraticket)
 * [Plaid](https://github.com/andrewdwallo/plaid)
+* [Laravel Multi DB](https://github.com/uxweb/laravel-multi-db)
 
 # Frameworks
 
