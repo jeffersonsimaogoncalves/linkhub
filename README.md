@@ -42,6 +42,10 @@
 * [Laravel Nova](https://nova.laravel.com)
 * [Nova Packages](https://novapackages.com/)
 
+# Laravel Admin
+
+* [SleepingOwlAdmin](https://github.com/LaravelRUS/SleepingOwlAdmin)
+
 # Frontend
 
 * [AlpineJS](https://alpinejs.dev/)
