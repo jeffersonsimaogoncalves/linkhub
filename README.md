@@ -7,6 +7,10 @@
 * [Repman](https://repman.io/)
 * [Bugsnag](https://bugsnag.com/)
 
+# Github Actions
+
+* [Release Please Action](https://github.com/google-github-actions/release-please-action)
+
 # Laravel
 
 * [Laravel](https://laravel.com)
