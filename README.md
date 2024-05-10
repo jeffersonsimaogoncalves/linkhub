@@ -6,6 +6,7 @@
 * [Git](https://git-scm.com/)
 * [Repman](https://repman.io/)
 * [Bugsnag](https://bugsnag.com/)
+* [Centrifuge](https://github.com/centrifugal/centrifuge)
 
 # Github Actions
 
@@ -90,11 +91,11 @@
 * [Astro](https://astro.build/)
 * [Clipboard JS](https://clipboardjs.com/)
 * [DripUI](https://dripui.vercel.app/)
-
-# Lorem Ipsum
-
-* [Picsum Photos](https://github.com/DMarby/picsum-photos)
 * [Tailwind Colors](https://imersaocss.com/tools/tailwindcolors)
 * [Icones](https://icones.js.org/)
 * [Preline UI](https://preline.co/)
 * [Shadcn UI](https://github.com/shadcn-ui/ui)
+
+# Lorem Ipsum
+
+* [Picsum Photos](https://github.com/DMarby/picsum-photos)
