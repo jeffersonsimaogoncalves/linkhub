@@ -54,6 +54,7 @@
 * [Filament General Settings](https://github.com/joaopaulolndev/filament-general-settings)
 * [Filament Jetstream](https://github.com/stephenjude/filament-jetstream)
 * [Filament Json Media](https://github.com/webplusmultimedia/filament-json-media)
+* [Filament PT-BR Form Fields](https://github.com/leandrocfe/filament-ptbr-form-fields)
 
 # Laravel Nova
 
