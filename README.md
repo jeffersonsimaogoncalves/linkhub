@@ -50,6 +50,7 @@
 * [Payvel](https://github.com/afsakar/payvel)
 * [Dinero](https://github.com/Shipu/dinero)
 * [Tall Commerce](https://github.com/sahapranta/tall_ecommerce)
+* [Laraticket](https://github.com/dorianneto/laraticket)
 
 # Frontend
 
