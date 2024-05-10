@@ -35,7 +35,7 @@
 * [Google Maps](https://github.com/cheesegrits/filament-google-maps)
 * [Build CMS Course](https://www.youtube.com/playlist?list=PLjCZ5YN4HlacfJ_CR-CkwVBKWGC-z5_T-)
 * [FilamentGlow](https://filamentglow.com/)
-* 
+* [Filament General Settings](https://github.com/joaopaulolndev/filament-general-settings)
 
 # Laravel Nova
 
