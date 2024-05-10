@@ -88,12 +88,16 @@
 # Tailwindcss
 
 * [Tailblocks](https://github.com/mertJF/tailblocks)
+* [Flowbite](https://flowbite.com/)
+* [Tailwind Colors](https://imersaocss.com/tools/tailwindcolors)
+* [Tailwindui](https://tailwindui.com/)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [Tailwind Elements](https://tailwind-elements.com/)
 
 # Frontend
 
 * [AlpineJS](https://alpinejs.dev/)
 * [Font Awesome](https://fontawesome.com/)
-* [Flowbite](https://flowbite.com/)
 * [Headless UI](https://headlessui.com/)
 * [Radix-ui](https://www.radix-ui.com/)
 * [Material Tailwind](https://www.material-tailwind.com/)
@@ -103,9 +107,6 @@
 * [Daisy UI](https://daisyui.com/)
 * [Hyper UI](https://www.hyperui.dev/)
 * [Flowrift](https://flowrift.com/w/)
-* [Tailwindui](https://tailwindui.com/)
-* [Tailwind CSS](https://tailwindcss.com/)
-* [Tailwind Elements](https://tailwind-elements.com/)
 * [CoreUI](https://coreui.io/)
 * [AdminLTE](https://adminlte.io/)
 * [Boostrap](https://getbootstrap.com/)
@@ -114,7 +115,6 @@
 * [Astro](https://astro.build/)
 * [Clipboard JS](https://clipboardjs.com/)
 * [DripUI](https://dripui.vercel.app/)
-* [Tailwind Colors](https://imersaocss.com/tools/tailwindcolors)
 * [Icones](https://icones.js.org/)
 * [Preline UI](https://preline.co/)
 * [Shadcn UI](https://github.com/shadcn-ui/ui)
