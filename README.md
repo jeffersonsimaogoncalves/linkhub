@@ -1,3 +1,7 @@
+# Roadmap
+
+* [Laravel Roadmap Advanced Beginner Roadmap](https://github.com/LaravelDaily/Laravel-Roadmap-Advanced-Beginner-Roadmap)
+
 # Ferramentas
 
 * [JWT](https://jwt.io/)
@@ -70,6 +74,7 @@
 * [School Management System](https://github.com/Samir-Gamal/school-management-system)
 * [Laravel Jetstream CRUD Roles](https://github.com/LaravelDaily/Laravel-Jetstream-CRUD-Roles)
 * [Laravel AdminPanel](https://github.com/FTXInfotech/laravel-adminpanel)
+* [Laravel Starter](https://github.com/antonraharja/laravel-starter)
 
 # Curso
 
