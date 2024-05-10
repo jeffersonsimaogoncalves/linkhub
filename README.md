@@ -7,6 +7,7 @@
 * [Repman](https://repman.io/)
 * [Bugsnag](https://bugsnag.com/)
 * [Centrifuge](https://github.com/centrifugal/centrifuge)
+* [Caddy](https://github.com/caddyserver/caddy)
 
 # Github Actions
 
