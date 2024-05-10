@@ -29,7 +29,7 @@
 * [Shield](https://github.com/bezhanSalleh/filament-shield)
 * [Filament Components](https://www.filamentcomponents.com/)
 * [Dinero](https://github.com/Shipu/dinero)
-* [Payvel][https://github.com/afsakar/payvel]
+* [Payvel](https://github.com/afsakar/payvel)
 * [Tall Commerce](https://github.com/sahapranta/tall_ecommerce)
 * [Barbershop](https://github.com/Peagah-Vieira/Laravel-Barbershop)
 * [Google Maps](https://github.com/cheesegrits/filament-google-maps)
@@ -70,3 +70,4 @@
 * [Tailwind Colors](https://imersaocss.com/tools/tailwindcolors)
 * [Icones](https://icones.js.org/)
 * [Preline UI](https://preline.co/)
+* [Shadcn UI](https://github.com/shadcn-ui/ui)
