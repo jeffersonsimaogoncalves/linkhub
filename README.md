@@ -7,6 +7,7 @@
 * [Repman](https://repman.io/)
 * [Bugsnag](https://bugsnag.com/)
 * [Centrifuge](https://github.com/centrifugal/centrifuge)
+* [Kool](https://github.com/kool-dev/kool)
 
 # Http Server
 
