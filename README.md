@@ -33,6 +33,7 @@
 * [Laravel Simple Query Filter](https://github.com/stephenjude/simple-query-filter)
 * [Laravel Api Toolkit](https://github.com/JustSteveKing/laravel-api-toolkit)
 * [Laravel Subscriptions](https://github.com/laravelcm/laravel-subscriptions)
+* [Spatie Menu](https://github.com/spatie/menu)
 
 # Livewire
 
