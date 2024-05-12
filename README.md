@@ -79,6 +79,7 @@
 * [Laravel AdminPanel](https://github.com/FTXInfotech/laravel-adminpanel)
 * [Laravel Starter](https://github.com/antonraharja/laravel-starter)
 * [Laravel Asset Stock Management](https://github.com/LaravelDaily/Laravel-Asset-Stock-Management)
+* [Laracoffee](https://github.com/snykk/Laracoffee)
 
 # Curso
 
