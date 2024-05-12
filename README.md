@@ -84,6 +84,7 @@
 * [Laravel Starter](https://github.com/antonraharja/laravel-starter)
 * [Laravel Asset Stock Management](https://github.com/LaravelDaily/Laravel-Asset-Stock-Management)
 * [Laracoffee](https://github.com/snykk/Laracoffee)
+* [Laravel Ecommerce](https://github.com/abdulaziz-m5u/laravel-ecommerce)
 
 # Curso
 
