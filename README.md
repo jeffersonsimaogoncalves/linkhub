@@ -85,6 +85,7 @@
 * [Laravel Asset Stock Management](https://github.com/LaravelDaily/Laravel-Asset-Stock-Management)
 * [Laracoffee](https://github.com/snykk/Laracoffee)
 * [Laravel Ecommerce](https://github.com/abdulaziz-m5u/laravel-ecommerce)
+* [Hospital System Management](https://github.com/XpertBotTeam/hospital-system-mangment)
 
 # Curso
 
