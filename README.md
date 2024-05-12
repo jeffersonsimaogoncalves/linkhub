@@ -34,6 +34,7 @@
 * [Laravel Api Toolkit](https://github.com/JustSteveKing/laravel-api-toolkit)
 * [Laravel Subscriptions](https://github.com/laravelcm/laravel-subscriptions)
 * [Spatie Menu](https://github.com/spatie/menu)
+* [Laravel Mobile Verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
 
 # Livewire
 
