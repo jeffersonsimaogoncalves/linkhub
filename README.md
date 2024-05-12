@@ -55,6 +55,7 @@
 * [Filament Jetstream](https://github.com/stephenjude/filament-jetstream)
 * [Filament Json Media](https://github.com/webplusmultimedia/filament-json-media)
 * [Filament PT-BR Form Fields](https://github.com/leandrocfe/filament-ptbr-form-fields)
+* [Filament Email Template](https://github.com/visualbuilder/email-templates)
 
 # Laravel Nova
 
