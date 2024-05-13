@@ -2,6 +2,10 @@
 
 ---
 
+* [AWESOME LARAVEL](AWESOME-LARAVEL.md)
+
+---
+
 * [Laravel](https://laravel.com)
 * [Laravel Artisan Cheatsheet](https://artisan.page/)
 * [Splade](https://splade.dev/)
