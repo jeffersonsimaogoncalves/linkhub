@@ -2,12 +2,16 @@
 
 ---
 
+* [Filament Livestream: Pet Clinic Admin Panel - New Project](https://www.youtube.com/playlist?list=PLgsruFcRiyk1jO4IgWbd6xw0tWM8TmlvS)
+* [Build a CMS with Filament 3 and Laravel 10](https://www.youtube.com/playlist?list=PLjCZ5YN4HlacfJ_CR-CkwVBKWGC-z5_T-)
+
+---
+
 * [Filament PHP](https://filamentphp.com/)
 * [Filapanel](https://filapanel.com/)
 * [Shield](https://github.com/bezhanSalleh/filament-shield)
 * [Filament Components](https://www.filamentcomponents.com/)
 * [Filament Google Maps](https://github.com/cheesegrits/filament-google-maps)
-* [Build CMS Course](https://www.youtube.com/playlist?list=PLjCZ5YN4HlacfJ_CR-CkwVBKWGC-z5_T-)
 * [FilamentGlow](https://filamentglow.com/)
 * [Filament General Settings](https://github.com/joaopaulolndev/filament-general-settings)
 * [Filament Jetstream](https://github.com/stephenjude/filament-jetstream)
