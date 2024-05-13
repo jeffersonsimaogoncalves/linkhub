@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d308fd44de8a2a9",
+        "id": "bc850650bda725ac",
         "type": "tabs",
         "children": [
           {
-            "id": "31aa625e0af999c9",
+            "id": "a039d87146eb75a2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,8 +138,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "31aa625e0af999c9",
+  "active": "a039d87146eb75a2",
   "lastOpenFiles": [
+    "PHP-FILAMENTPHP.md",
+    "PHP-LARAVEL.md",
+    "PHP-LARAVEL-NOVA.md",
+    "PHP-LIVEWIRE.md",
+    "FRONTEND-TAILWINDCSS.md",
+    "ROADMAP.md~",
     "AWESOME-FRONTEND.md~",
     "AWESOME-GIT.md~",
     "AWESOME-ROADMAP.md~",
@@ -160,8 +166,6 @@
     "LARAVEL.md~",
     "README.md~",
     "README.md",
-    "GITHUBACTIONS.md~",
-    "FRONTEND.md~",
     "LOREMIPSUM.md",
     "FRONTEND.md",
     "TAILWINDCSS.md",
@@ -171,10 +175,6 @@
     "LARAVELNOVA.md",
     "FILAMENTPHP.md",
     "LIVEWIRE.md",
-    "LARAVEL.md",
-    "GITHUBACTIONS.md",
-    "HTTPSERVER.md",
-    "FERRAMENTAS.md",
-    "ROADMAP.md"
+    "LARAVEL.md"
   ]
 }
