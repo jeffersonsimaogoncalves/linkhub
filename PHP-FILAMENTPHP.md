@@ -9,6 +9,7 @@
 
 * [Filament PHP](https://filamentphp.com/)
 * [Filapanel](https://filapanel.com/)
+* [FilaStart](https://github.com/LaravelDaily/FilaStart)
 * [Shield](https://github.com/bezhanSalleh/filament-shield)
 * [Filament Components](https://www.filamentcomponents.com/)
 * [Filament Google Maps](https://github.com/cheesegrits/filament-google-maps)
