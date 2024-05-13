@@ -1,7 +1,5 @@
 # FERRAMENTAS
 
----
-
 * [JWT](https://jwt.io/)
 * [Packagist](https://packagist.org/)
 * [Composer](https://getcomposer.org/)
