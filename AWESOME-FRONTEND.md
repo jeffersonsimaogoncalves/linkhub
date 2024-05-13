@@ -7,6 +7,7 @@
 * [TAILWINDCSS](https://github.com/aniftyco/awesome-tailwindcss)
 * [VITE](https://github.com/vitejs/awesome-vite)
 * [FRONTEND](https://github.com/JingwenTian/awesome-frontend)
+* [UIKIT](https://github.com/jaywcjlove/awesome-uikit)
 
 ---
 
