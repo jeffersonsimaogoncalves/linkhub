@@ -19,6 +19,12 @@
 * [Laracoffee](https://github.com/snykk/Laracoffee)
 * [Laravel Ecommerce](https://github.com/abdulaziz-m5u/laravel-ecommerce)
 * [Hospital System Management](https://github.com/XpertBotTeam/hospital-system-mangment)
+* [Book Stack](https://github.com/BookStackApp/BookStack)
+* [Cachet](https://github.com/cachethq/cachet)
+* [Bagisto](https://github.com/bagisto/bagisto)
+* [October](https://github.com/octobercms/october)
+* [Invoice Ninja](https://github.com/invoiceninja/invoiceninja)
+* [Koel](https://github.com/koel/koel)
 
 ---
 

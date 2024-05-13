@@ -1,5 +1,7 @@
 # LINKS UTEIS
 
+## [AWESOME](AWESOME.md)
+
 ## [PHP](PHP.md)
 
 ## [ROADMAP](ROADMAP.md)

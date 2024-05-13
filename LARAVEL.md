@@ -14,6 +14,11 @@
 * [Spatie Menu](https://github.com/spatie/menu)
 * [Laravel Mobile Verification](https://github.com/mohammad-fouladgar/laravel-mobile-verification)
 * [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar)
+* [Laravel Ide Helper](https://github.com/barryvdh/laravel-ide-helper)
+* [Laravel Excel](https://github.com/SpartnerNL/Laravel-Excel)
+* [Laravel Permission](https://github.com/spatie/laravel-permission)
+* [Voyager](https://github.com/thedevdojo/voyager)
+* [Jwt Auth](https://github.com/tymondesigns/jwt-auth)
 
 ---
 
