@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43851b36d62e941e",
+        "id": "7d308fd44de8a2a9",
         "type": "tabs",
         "children": [
           {
-            "id": "2418246a1444190e",
+            "id": "31aa625e0af999c9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,10 +138,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2418246a1444190e",
+  "active": "31aa625e0af999c9",
   "lastOpenFiles": [
-    "AWESOME-ANDROID.md~",
+    "AWESOME-FRONTEND.md~",
+    "AWESOME-GIT.md~",
+    "AWESOME-ROADMAP.md~",
+    "AWESOME-ROADMAP.md",
     "AWESOME.md~",
+    "AWESOME-GIT.md",
+    "AWESOME-ANDROID.md~",
+    "AWESOME-FRONTEND.md",
     "AWESOME.md",
     "AWESOME-ANDROID.md",
     "AWESOME/AWESOME-ANDROID.md",
@@ -156,23 +162,19 @@
     "README.md",
     "GITHUBACTIONS.md~",
     "FRONTEND.md~",
-    "LOREMIPSUM.md~",
     "LOREMIPSUM.md",
     "FRONTEND.md",
     "TAILWINDCSS.md",
     "FRAMEWORKS.md",
     "CURSO.md",
     "STARTKITLARAVEL.md",
-    "LARAVELNOVA.md~",
     "LARAVELNOVA.md",
-    "FILAMENTPHP.md~",
     "FILAMENTPHP.md",
     "LIVEWIRE.md",
     "LARAVEL.md",
     "GITHUBACTIONS.md",
     "HTTPSERVER.md",
     "FERRAMENTAS.md",
-    "ROADMAP.md",
-    "PHP.md"
+    "ROADMAP.md"
   ]
 }
