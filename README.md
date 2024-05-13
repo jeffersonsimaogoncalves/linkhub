@@ -1,7 +1,5 @@
 # LINKS UTEIS
 
----
-
 ## [AWESOME](AWESOME.md)
 ### [AWESOME ANDROID](AWESOME-ANDROID.md)
 ### [AWESOME FRONTEND](AWESOME-FRONTEND.md)
@@ -12,19 +10,11 @@
 
 ## [ROADMAP](ROADMAP.md)
 
----
-
 ## [FERRAMENTAS](FERRAMENTAS.md)
-
----
 
 ## [HTTP SERVER](HTTPSERVER.md)
 
----
-
 ## [GITHUB ACTIONS](GITHUBACTIONS.md)
-
----
 
 ## [PHP](PHP.md)
 
@@ -42,11 +32,7 @@
 
 ## [CURSO](CURSO.md)
 
----
-
 ## [FRAMEWORKS](FRAMEWORKS.md)
-
----
 
 ## [FRONTEND](FRONTEND.md)
 
