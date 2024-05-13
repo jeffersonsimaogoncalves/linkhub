@@ -11,7 +11,7 @@
             "id": "f3b9aa92c09b67ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -140,6 +140,7 @@
   },
   "active": "f3b9aa92c09b67ff",
   "lastOpenFiles": [
+    "PHP-LIVEWIRE.md~",
     "ROADMAP.md",
     "README.md",
     "PHP.md",
@@ -174,7 +175,6 @@
     "FRONTEND.md",
     "TAILWINDCSS.md",
     "FRAMEWORKS.md",
-    "CURSO.md",
-    "STARTKITLARAVEL.md"
+    "CURSO.md"
   ]
 }
