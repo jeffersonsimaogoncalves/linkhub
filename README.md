@@ -1,6 +1,6 @@
 # LINKS UTEIS
 
-## [AWESOME](AWESOME/AWESOME)
+## [AWESOME](AWESOME.md)
 
 ## [PHP](PHP.md)
 
