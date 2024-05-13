@@ -1,7 +1,5 @@
 # FERRAMENTAS
 
----
-
 * [JWT](https://jwt.io/)
 * [Packagist](https://packagist.org/)
 * [Composer](https://getcomposer.org/)
@@ -10,6 +8,8 @@
 * [Bugsnag](https://bugsnag.com/)
 * [Centrifuge](https://github.com/centrifugal/centrifuge)
 * [Kool](https://github.com/kool-dev/kool)
+* [Devilbox](https://github.com/cytopia/devilbox)
+* [ASDF](https://github.com/asdf-vm/asdf)
 
 ---
 

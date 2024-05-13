@@ -1,7 +1,5 @@
 # START KIT LARAVEL
 
----
-
 * [Freezer Control](https://github.com/icarojobs/freezer-control)
 * [SleepingOwlAdmin](https://github.com/LaravelRUS/SleepingOwlAdmin)
 * [Barbershop](https://github.com/Peagah-Vieira/Laravel-Barbershop)
@@ -27,6 +25,7 @@
 * [Koel](https://github.com/koel/koel)
 * [TomatoPHP Demo](https://github.com/tomatophp/demo)
 * [TomatoPHP Tomato](https://github.com/tomatophp/tomato)
+* [ERP SAAS](https://github.com/andrewdwallo/erpsaas)
 
 ---
 
