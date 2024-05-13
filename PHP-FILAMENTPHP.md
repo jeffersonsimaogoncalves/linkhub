@@ -1,7 +1,5 @@
 # FILAMENT PHP
 
----
-
 * [Filament Livestream: Pet Clinic Admin Panel - New Project](https://www.youtube.com/playlist?list=PLgsruFcRiyk1jO4IgWbd6xw0tWM8TmlvS)
 * [Build a CMS with Filament 3 and Laravel 10](https://www.youtube.com/playlist?list=PLjCZ5YN4HlacfJ_CR-CkwVBKWGC-z5_T-)
 

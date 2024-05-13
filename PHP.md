@@ -1,7 +1,5 @@
 # PHP
 
----
-
 * [FILAMENTPHP](PHP-FILAMENTPHP.md)
 
 ---
@@ -11,6 +9,10 @@
 ---
 
 * [LARAVEL NOVA](PHP-LARAVEL-NOVA.md)
+
+---
+
+* [LARAVEL PULSE](PHP-LARAVEL-PULSE.md)
 
 ---
 
