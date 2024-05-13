@@ -2,10 +2,11 @@
 
 ---
 
-* [PHP](https://github.com/ziadoz/awesome-php)
+* [ANDROID](https://github.com/JStumpp/awesome-android)
 * [LARAVEL](https://github.com/chiraggude/awesome-laravel)
-* [VITE](https://github.com/vitejs/awesome-vite)
+* [PHP](https://github.com/ziadoz/awesome-php)
 * [TAILWINDCSS](https://github.com/aniftyco/awesome-tailwindcss)
+* [VITE](https://github.com/vitejs/awesome-vite)
 
 ---
 
