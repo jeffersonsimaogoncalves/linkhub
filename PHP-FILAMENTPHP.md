@@ -19,6 +19,7 @@
 * [Filament PT-BR Form Fields](https://github.com/leandrocfe/filament-ptbr-form-fields)
 * [Filament Email Template](https://github.com/visualbuilder/email-templates)
 * [Filament Character Counter](https://github.com/schmeits/filament-character-counter)
+* [Filament Plugins](https://github.com/tomatophp/filament-plugins)
 
 ---
 

@@ -23,6 +23,7 @@
 * [Laravel Permission](https://github.com/spatie/laravel-permission)
 * [Voyager](https://github.com/thedevdojo/voyager)
 * [Jwt Auth](https://github.com/tymondesigns/jwt-auth)
+* [Laravel Subby](https://github.com/bpuig/laravel-subby)
 
 ---
 
