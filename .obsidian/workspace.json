@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d2d4be37a6f06e58",
+        "id": "9d2a5280ad7d63d5",
         "type": "tabs",
         "children": [
           {
-            "id": "bb6a9e8215616649",
+            "id": "616f7bcb3a0647fb",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,8 +138,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bb6a9e8215616649",
+  "active": "616f7bcb3a0647fb",
   "lastOpenFiles": [
+    "ROADMAP.md",
+    "README.md",
+    "PHP.md",
     "PHP-FILAMENTPHP.md~",
     "AWESOME-FRONTEND.md~",
     "AWESOME-ANDROID.md~",
@@ -158,7 +161,6 @@
     "AWESOME-GIT.md~",
     "AWESOME-ROADMAP.md~",
     "AWESOME-ROADMAP.md",
-    "AWESOME.md~",
     "AWESOME-GIT.md",
     "AWESOME-FRONTEND.md",
     "AWESOME.md",
@@ -168,13 +170,11 @@
     "AWESOME/ANDROID-AWESOME.md",
     "AWESOME/README.md",
     "AWESOME/ANDROID.md",
-    "README.md",
     "LOREMIPSUM.md",
     "FRONTEND.md",
     "TAILWINDCSS.md",
     "FRAMEWORKS.md",
     "CURSO.md",
-    "STARTKITLARAVEL.md",
-    "LARAVELNOVA.md"
+    "STARTKITLARAVEL.md"
   ]
 }
