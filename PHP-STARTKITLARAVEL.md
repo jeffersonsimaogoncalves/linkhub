@@ -25,6 +25,8 @@
 * [October](https://github.com/octobercms/october)
 * [Invoice Ninja](https://github.com/invoiceninja/invoiceninja)
 * [Koel](https://github.com/koel/koel)
+* [TomatoPHP Demo](https://github.com/tomatophp/demo)
+* [TomatoPHP Tomato](https://github.com/tomatophp/tomato)
 
 ---
 
