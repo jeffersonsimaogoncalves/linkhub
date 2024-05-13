@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d2a5280ad7d63d5",
+        "id": "fdee7f8bfb5fd8ab",
         "type": "tabs",
         "children": [
           {
-            "id": "616f7bcb3a0647fb",
+            "id": "f3b9aa92c09b67ff",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "616f7bcb3a0647fb",
+  "active": "f3b9aa92c09b67ff",
   "lastOpenFiles": [
     "ROADMAP.md",
     "README.md",
