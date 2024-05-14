@@ -34,6 +34,7 @@
 * [Voyager](https://github.com/thedevdojo/voyager)
 * [Jwt Auth](https://github.com/tymondesigns/jwt-auth)
 * [Laravel Subby](https://github.com/bpuig/laravel-subby)
+* [Laravel Quiz](https://github.com/harishdurga/laravel-quiz)
 
 ---
 
