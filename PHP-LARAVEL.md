@@ -35,6 +35,7 @@
 * [Jwt Auth](https://github.com/tymondesigns/jwt-auth)
 * [Laravel Subby](https://github.com/bpuig/laravel-subby)
 * [Laravel Quiz](https://github.com/harishdurga/laravel-quiz)
+* [Laravel Magic Login](https://github.com/maize-tech/laravel-magic-login)
 
 ---
 
