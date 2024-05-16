@@ -26,6 +26,7 @@
 * [TomatoPHP Demo](https://github.com/tomatophp/demo)
 * [TomatoPHP Tomato](https://github.com/tomatophp/tomato)
 * [ERP SAAS](https://github.com/andrewdwallo/erpsaas)
+* [Dinero](https://github.com/Shipu/dinero)
 
 ---
 
