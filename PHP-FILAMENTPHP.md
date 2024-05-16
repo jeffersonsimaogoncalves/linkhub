@@ -20,6 +20,7 @@
 * [Filament Character Counter](https://github.com/schmeits/filament-character-counter)
 * [Filament Maillog](https://github.com/TappNetwork/filament-maillog)
 * [Filament Blog](https://github.com/thefireflytech/filament-blog)
+* [Filament Queueable Bulk Actions](https://github.com/bytexr/filament-queueable-bulk-actions)
 
 ---
 
