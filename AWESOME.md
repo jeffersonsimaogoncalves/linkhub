@@ -22,6 +22,7 @@
 
 ---
 
+* [FILAMENT PHP](https://github.com/spekulatius/awesome-filament)
 * [PHP](https://github.com/ziadoz/awesome-php)
 * [EMAILS](https://github.com/jonathandion/awesome-emails)
 * [SEO](https://github.com/madawei2699/awesome-seo)
