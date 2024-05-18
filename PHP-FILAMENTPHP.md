@@ -21,6 +21,7 @@
 * [Filament Maillog](https://github.com/TappNetwork/filament-maillog)
 * [Filament Blog](https://github.com/thefireflytech/filament-blog)
 * [Filament Queueable Bulk Actions](https://github.com/bytexr/filament-queueable-bulk-actions)
+* [Filament Modules](https://github.com/savannabits/filament-modules)
 
 ---
 
