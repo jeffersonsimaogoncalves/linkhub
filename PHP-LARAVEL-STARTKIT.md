@@ -29,6 +29,7 @@
 * [Dinero](https://github.com/Shipu/dinero)
 * [Laravel 11 Stisla](https://github.com/vickymaulana/laravel11-stisla)
 * [Easy Email Marketing](https://github.com/0xlemi/easy-email-marketing)
+* [Ticket Laravel](https://github.com/adhiariyadi/Ticket-Laravel)
 
 ---
 
