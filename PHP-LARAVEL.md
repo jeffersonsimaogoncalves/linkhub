@@ -37,6 +37,7 @@
 * [Laravel Quiz](https://github.com/harishdurga/laravel-quiz)
 * [Laravel Magic Login](https://github.com/maize-tech/laravel-magic-login)
 * [Laravel Migration Views](https://github.com/staudenmeir/laravel-migration-views)
+* [Easy Email Marketing](https://github.com/0xlemi/easy-email-marketing)
 
 ---
 
