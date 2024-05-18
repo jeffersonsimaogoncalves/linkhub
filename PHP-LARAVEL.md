@@ -36,6 +36,7 @@
 * [Laravel Subby](https://github.com/bpuig/laravel-subby)
 * [Laravel Quiz](https://github.com/harishdurga/laravel-quiz)
 * [Laravel Magic Login](https://github.com/maize-tech/laravel-magic-login)
+* [Laravel Migration Views](https://github.com/staudenmeir/laravel-migration-views)
 
 ---
 
