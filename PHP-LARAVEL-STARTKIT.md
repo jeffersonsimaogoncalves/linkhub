@@ -27,6 +27,7 @@
 * [TomatoPHP Tomato](https://github.com/tomatophp/tomato)
 * [ERP SAAS](https://github.com/andrewdwallo/erpsaas)
 * [Dinero](https://github.com/Shipu/dinero)
+* [Laravel 11 Stisla](https://github.com/vickymaulana/laravel11-stisla)
 
 ---
 
