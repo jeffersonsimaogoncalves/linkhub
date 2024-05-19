@@ -37,6 +37,12 @@
 * [Laravel Quiz](https://github.com/harishdurga/laravel-quiz)
 * [Laravel Magic Login](https://github.com/maize-tech/laravel-magic-login)
 * [Laravel Migration Views](https://github.com/staudenmeir/laravel-migration-views)
+* [Explore Laravel](https://github.com/chandan-ojha/explore-laravel)
+* [RHEA](https://github.com/lara-zeus/rhea)
+* [Laravel Heyman](https://github.com/imanghafoori1/laravel-heyman)
+* [Laradumps](https://github.com/laradumps/laradumps)
+* [Laravel Translations](https://github.com/MohmmedAshraf/laravel-translations)
+* [Crawler](https://github.com/spatie/crawler)
 
 ---
 

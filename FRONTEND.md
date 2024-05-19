@@ -10,6 +10,14 @@
 
 ---
 
+* [VITE](FRONTEND-VITE.md)
+
+---
+
+* [NEXTJS](FRONTEND-NEXTJS.md)
+
+---
+
 * [AlpineJS](https://alpinejs.dev/)
 * [Font Awesome](https://fontawesome.com/)
 * [Headless UI](https://headlessui.com/)
@@ -25,13 +33,16 @@
 * [AdminLTE](https://adminlte.io/)
 * [Boostrap](https://getbootstrap.com/)
 * [Vue.js](https://vuejs.org/)
-* [Next.js](https://nextjs.org/)
 * [Astro](https://astro.build/)
 * [Clipboard JS](https://clipboardjs.com/)
 * [DripUI](https://dripui.vercel.app/)
 * [Icones](https://icones.js.org/)
 * [Preline UI](https://preline.co/)
 * [Shadcn UI](https://github.com/shadcn-ui/ui)
+
+---
+
+* [Core UI](https://github.com/coreui/coreui)
 
 ---
 

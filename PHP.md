@@ -21,6 +21,7 @@
 ---
 
 * [FLARUM](https://github.com/flarum/flarum)
+* [Electron PHP](https://github.com/Padrio/electron-php)
 
 ---
 

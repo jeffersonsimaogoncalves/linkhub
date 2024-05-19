@@ -30,6 +30,21 @@
 * [Laravel 11 Stisla](https://github.com/vickymaulana/laravel11-stisla)
 * [Easy Email Marketing](https://github.com/0xlemi/easy-email-marketing)
 * [Ticket Laravel](https://github.com/adhiariyadi/Ticket-Laravel)
+* [Laravel Admin Panel](https://github.com/FTXInfotech/laravel-adminpanel)
+* [Hospital Management System Laravel](https://github.com/shakthisachintha/Hospital-Management-System-Laravel)
+* [Larafood](https://github.com/especializati/larafood)
+* [Controle de Estoque](https://github.com/puppe1990/ControleEstoque)
+* [Multi Domain Laravel](https://github.com/DigitalWheat/Multi-Domain-Laravel)
+* [Speedtest Tracker](https://github.com/alexjustesen/speedtest-tracker)
+* [Laravel Breeze Pages Skeleton](https://github.com/LaravelDaily/Laravel-Breeze-Pages-Skeleton)
+* [paper.mary-ui.com](https://github.com/robsontenorio/paper.mary-ui.com)
+* [Basic Crud](https://github.com/MrPunyapal/basic-crud)
+* [Livewire Autocomplete Demo](https://github.com/joshhanley/livewire-autocomplete-demo)
+* [Multi Step Form Using Laravel Livewire](https://github.com/mberecall/Multi-Step-Form-Using-Laravel-Livewire)
+* [Laravel Booking App](https://github.com/javedbaloch4/laravel-booking-app)
+* [Tall Stack Todo](https://github.com/euseiphp/tall-stack-todo)
+* [Lara Zeus Demo](https://github.com/lara-zeus/demo)
+* [LaraTrust Admin Painel](https://github.com/hafitzrizki/laratrust-adminpanel)
 
 ---
 

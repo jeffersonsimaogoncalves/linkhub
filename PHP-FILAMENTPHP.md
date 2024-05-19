@@ -22,6 +22,16 @@
 * [Filament Blog](https://github.com/thefireflytech/filament-blog)
 * [Filament Queueable Bulk Actions](https://github.com/bytexr/filament-queueable-bulk-actions)
 * [Filament Modules](https://github.com/savannabits/filament-modules)
+* [Filament Env Editor](https://github.com/GeoSot/filament-env-editor)
+* [Tartarus](https://github.com/lara-zeus/tartarus)
+* [Filament Rating](https://github.com/mokhosh/filament-rating)
+* [Filament Plugin Skeleton](https://github.com/filamentphp/plugin-skeleton)
+* [Filament Json Editor](https://github.com/invaders-xx/filament-jsoneditor)
+* [Filament Tel Input](https://github.com/jojostx/filament-tel-input)
+* [Filament Adjacency List](https://github.com/saade/filament-adjacency-list)
+* [Filament Curator](https://github.com/awcodes/filament-curator)
+* [Filament Drafts](https://github.com/GuavaCZ/filament-drafts)
+* [Filament Tailwind Color Picker](https://github.com/happytodev/filament-tailwind-color-picker)
 
 ---
 
