@@ -43,6 +43,7 @@
 * [Laradumps](https://github.com/laradumps/laradumps)
 * [Laravel Translations](https://github.com/MohmmedAshraf/laravel-translations)
 * [Crawler](https://github.com/spatie/crawler)
+* [Rest Presenter](https://github.com/xtend-packages/rest-presenter)
 
 ---
 
