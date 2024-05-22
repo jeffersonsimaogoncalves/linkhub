@@ -32,6 +32,7 @@
 * [Filament Curator](https://github.com/awcodes/filament-curator)
 * [Filament Drafts](https://github.com/GuavaCZ/filament-drafts)
 * [Filament Tailwind Color Picker](https://github.com/happytodev/filament-tailwind-color-picker)
+* [Filament Knowledge Base](https://github.com/GuavaCZ/filament-knowledge-base)
 
 ---
 
