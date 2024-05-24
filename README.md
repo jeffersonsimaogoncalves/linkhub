@@ -56,12 +56,12 @@
 
 ## FERRAMENTAS
 
-* [JWT](https://jwt.io/)
-* [Packagist](https://packagist.org/)
-* [Composer](https://getcomposer.org/)
-* [Git](https://git-scm.com/)
-* [Repman](https://repman.io/)
-* [Bugsnag](https://bugsnag.com/)
+* [JWT](https://jwt.io)
+* [Packagist](https://packagist.org)
+* [Composer](https://getcomposer.org)
+* [Git](https://git-scm.com)
+* [Repman](https://repman.io)
+* [Bugsnag](https://bugsnag.com)
 * [Centrifuge](https://github.com/centrifugal/centrifuge)
 * [Kool](https://github.com/kool-dev/kool)
 * [Devilbox](https://github.com/cytopia/devilbox)
@@ -92,9 +92,40 @@
 ### LARAVEL
 
 * [Laravel](https://laravel.com)
-* [Laravel Artisan Cheatsheet](https://artisan.page/)
-* [Splade](https://splade.dev/)
-* [InertiaJS](https://inertiajs.com/)
+* [Laravel News](https://laravel-news.com)
+* [Laravel Partners](https://partners.laravel.com)
+* [Laravel Careers](https://laravel.com/careers)
+* [Laravel Docs](https://laravel.com/docs)
+* [Laravel Breeze](https://laravel.com/docs/11.x/starter-kits#laravel-breeze)
+* [Laravel Cashier](https://laravel.com/docs/11.x/billing)
+* [Laravel Dusk](https://laravel.com/docs/11.x/dusk)
+* [Laravel Echo](https://laravel.com/docs/11.x/broadcasting)
+* [Laravel Envoyer](https://envoyer.io)
+* [Laravel Forge](https://forge.laravel.com)
+* [Laravel Herd](https://herd.laravel.com)
+* [Laravel Horizon](https://laravel.com/docs/11.x/horizon)
+* [Laravel InertiaJS](https://inertiajs.com)
+* [Laravel Jetstream](https://jetstream.laravel.com)
+* [Laravel Livewire](https://livewire.laravel.com)
+* [Laravel Nova](https://nova.laravel.com)
+* [Laravel Octane](https://laravel.com/docs/11.x/octane)
+* [Laravel Pennant](https://laravel.com/docs/11.x/pennant)
+* [Laravel Pint](https://laravel.com/docs/11.x/pint)
+* [Laravel Prompts](https://laravel.com/docs/11.x/prompts)
+* [Laravel Pulse](https://pulse.laravel.com)
+* [Laravel Reverb](https://reverb.laravel.com)
+* [Laravel Sail](https://laravel.com/docs/11.x/sail)
+* [Laravel Sanctum](https://laravel.com/docs/11.x/sanctum)
+* [Laravel Scout](https://laravel.com/docs/11.x/scout)
+* [Laravel Socialite](https://laravel.com/docs/11.x/socialite)
+* [Laravel Spark](https://spark.laravel.com)
+* [Laravel Telescope](https://laravel.com/docs/11.x/telescope)
+* [Laravel Vapor](https://vapor.laravel.com)
+
+---
+
+* [Laravel Artisan Cheatsheet](https://artisan.page)
+* [Splade](https://splade.dev)
 * [Laravel Payment Gateways](https://github.com/stephenjude/laravel-payment-gateways)
 * [Laravel Auto Translate](https://github.com/devaslanphp/auto-translate)
 * [Laravel Simple Query Filter](https://github.com/stephenjude/simple-query-filter)
@@ -130,11 +161,12 @@
 
 #### LIVEWIRE
 
-* [Laravel Livewire](https://laravel-livewire.com/)
-* [Tallstack UI](https://tallstackui.com/)
-* [Livewire PowerGrid](https://livewire-powergrid.com/)
-* [Wire in the Wild](https://wireinthewild.com/)
-* [Wirebox](https://wirebox.app/)
+* [Laravel Livewire 3.x](https://livewire.laravel.com)
+* [Laravel Livewire](https://laravel-livewire.com)
+* [Tallstack UI](https://tallstackui.com)
+* [Livewire PowerGrid](https://livewire-powergrid.com)
+* [Wire in the Wild](https://wireinthewild.com)
+* [Wirebox](https://wirebox.app)
 * [Curso de Livewire](https://www.youtube.com/watch?v=lMNpKM3TbJw&list=PLVSNL1PHDWvTH6zKPGTfxEdpv1sN0VbeV)
 * [Livewire Rate Limiting](https://github.com/danharrin/livewire-rate-limiting)
 * [Laravel Livewire Tables](https://github.com/kdion4891/laravel-livewire-tables)
@@ -149,13 +181,13 @@
 
 ---
 
-* [Filament PHP](https://filamentphp.com/)
-* [Filapanel](https://filapanel.com/)
+* [Filament PHP](https://filamentphp.com)
+* [Filapanel](https://filapanel.com)
 * [FilaStart](https://github.com/LaravelDaily/FilaStart)
 * [Shield](https://github.com/bezhanSalleh/filament-shield)
-* [Filament Components](https://www.filamentcomponents.com/)
+* [Filament Components](https://www.filamentcomponents.com)
 * [Filament Google Maps](https://github.com/cheesegrits/filament-google-maps)
-* [FilamentGlow](https://filamentglow.com/)
+* [FilamentGlow](https://filamentglow.com)
 * [Filament General Settings](https://github.com/joaopaulolndev/filament-general-settings)
 * [Filament Jetstream](https://github.com/stephenjude/filament-jetstream)
 * [Filament Json Media](https://github.com/webplusmultimedia/filament-json-media)
@@ -225,7 +257,7 @@
 #### LARAVEL NOVA
 
 * [Laravel Nova](https://nova.laravel.com)
-* [Nova Packages](https://novapackages.com/)
+* [Nova Packages](https://novapackages.com)
 * [Nova Permissions](https://github.com/serenysoft/nova-permissions)
 * [Nova Duplicate Field](https://github.com/MohmmedAshraf/nova-duplicate-field)
 * [Nova Html Field](https://github.com/JoshMoreno/nova-html-field)
@@ -298,26 +330,26 @@
 
 ## FRONTEND
 
-* [AlpineJS](https://alpinejs.dev/)
-* [Font Awesome](https://fontawesome.com/)
-* [Headless UI](https://headlessui.com/)
-* [Radix-ui](https://www.radix-ui.com/)
-* [Material Tailwind](https://www.material-tailwind.com/)
-* [Meraki UI](https://merakiui.com/)
-* [Sailboat UI](https://sailboatui.com/)
-* [Kometa](https://kitwind.io/products/kometa/)
-* [Daisy UI](https://daisyui.com/)
-* [Hyper UI](https://www.hyperui.dev/)
-* [Flowrift](https://flowrift.com/w/)
-* [CoreUI](https://coreui.io/)
-* [AdminLTE](https://adminlte.io/)
-* [Boostrap](https://getbootstrap.com/)
-* [Vue.js](https://vuejs.org/)
-* [Astro](https://astro.build/)
-* [Clipboard JS](https://clipboardjs.com/)
-* [DripUI](https://dripui.vercel.app/)
-* [Icones](https://icones.js.org/)
-* [Preline UI](https://preline.co/)
+* [AlpineJS](https://alpinejs.dev)
+* [Font Awesome](https://fontawesome.com)
+* [Headless UI](https://headlessui.com)
+* [Radix-ui](https://www.radix-ui.com)
+* [Material Tailwind](https://www.material-tailwind.com)
+* [Meraki UI](https://merakiui.com)
+* [Sailboat UI](https://sailboatui.com)
+* [Kometa](https://kitwind.io/products/kometa)
+* [Daisy UI](https://daisyui.com)
+* [Hyper UI](https://www.hyperui.dev)
+* [Flowrift](https://flowrift.com/w)
+* [CoreUI](https://coreui.io)
+* [AdminLTE](https://adminlte.io)
+* [Boostrap](https://getbootstrap.com)
+* [Vue.js](https://vuejs.org)
+* [Astro](https://astro.build)
+* [Clipboard JS](https://clipboardjs.com)
+* [DripUI](https://dripui.vercel.app)
+* [Icones](https://icones.js.org)
+* [Preline UI](https://preline.co)
 * [Shadcn UI](https://github.com/shadcn-ui/ui)
 
 ---
@@ -328,7 +360,7 @@
 
 ### NEXTJS
 
-* [Next.js](https://nextjs.org/)
+* [Next.js](https://nextjs.org)
 * [GeoConectar](https://github.com/nicollekoetzler/GeoConectar)
 
 ---
@@ -336,11 +368,11 @@
 ### TAILWINDCSS
 
 * [Tailblocks](https://github.com/mertJF/tailblocks)
-* [Flowbite](https://flowbite.com/)
+* [Flowbite](https://flowbite.com)
 * [Tailwind Colors](https://imersaocss.com/tools/tailwindcolors)
-* [Tailwindui](https://tailwindui.com/)
-* [Tailwind CSS](https://tailwindcss.com/)
-* [Tailwind Elements](https://tailwind-elements.com/)
+* [Tailwindui](https://tailwindui.com)
+* [Tailwind CSS](https://tailwindcss.com)
+* [Tailwind Elements](https://tailwind-elements.com)
 
 ---
 
