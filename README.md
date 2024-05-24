@@ -205,6 +205,7 @@
 * [Filament Google Maps](https://github.com/cheesegrits/filament-google-maps)
 * [FilamentGlow](https://filamentglow.com)
 * [Filament General Settings](https://github.com/joaopaulolndev/filament-general-settings)
+* [Filament Edit Profile](https://github.com/joaopaulolndev/filament-edit-profile)
 * [Filament Jetstream](https://github.com/stephenjude/filament-jetstream)
 * [Filament Json Media](https://github.com/webplusmultimedia/filament-json-media)
 * [Filament PT-BR Form Fields](https://github.com/leandrocfe/filament-ptbr-form-fields)
