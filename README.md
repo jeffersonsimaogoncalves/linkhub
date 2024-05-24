@@ -171,6 +171,8 @@
 * [Rest Presenter](https://github.com/xtend-packages/rest-presenter)
 * [Statamic](https://statamic.dev)
 * [Laravel Firewall](https://github.com/akaunting/laravel-firewall)
+* [Laravel Google Captcha](https://github.com/thinhbuzz/laravel-google-captcha)
+* [Laravel Backpack CRUD](https://github.com/Laravel-Backpack/CRUD)
 
 ---
 
