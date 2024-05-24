@@ -165,6 +165,7 @@
 * [Laravel Translations](https://github.com/MohmmedAshraf/laravel-translations)
 * [Crawler](https://github.com/spatie/crawler)
 * [Rest Presenter](https://github.com/xtend-packages/rest-presenter)
+* [Statamic](https://statamic.dev)
 
 ---
 
