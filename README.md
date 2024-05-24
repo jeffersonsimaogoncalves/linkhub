@@ -6,6 +6,9 @@
 * [PHP](https://github.com/ziadoz/awesome-php)
 * [EMAILS](https://github.com/jonathandion/awesome-emails)
 * [SEO](https://github.com/madawei2699/awesome-seo)
+* [Symfony](https://github.com/andreia/awesome-symfony)
+* [Doctrine](https://github.com/andreia/awesome-doctrine)
+* [Twig](https://github.com/andreia/awesome-twig)
 
 ---
 
@@ -66,6 +69,7 @@
 * [Kool](https://github.com/kool-dev/kool)
 * [Devilbox](https://github.com/cytopia/devilbox)
 * [ASDF](https://github.com/asdf-vm/asdf)
+* [TLDR](https://github.com/tldr-pages/tldr)
 
 ---
 
@@ -166,6 +170,7 @@
 * [Crawler](https://github.com/spatie/crawler)
 * [Rest Presenter](https://github.com/xtend-packages/rest-presenter)
 * [Statamic](https://statamic.dev)
+* [Laravel Firewall](https://github.com/akaunting/laravel-firewall)
 
 ---
 
@@ -236,6 +241,8 @@
 * [Filament Email 2FA](https://github.com/solutionforest/filament-email-2fa)
 * [Filament Time Range Picker](https://github.com/solutionforest/filament-time-range-picker)
 * [Filament Pill Select](https://github.com/solutionforest/filament-pill-select)
+* [Filament Timezone Field](https://github.com/TappNetwork/filament-timezone-field)
+* [Filament Spatie Roles Permissions](https://github.com/Althinect/filament-spatie-roles-permissions)
 *
 
 ---
@@ -408,5 +415,19 @@
 ## PORTFOLIO
 
 * [Portfolio Ideas](https://github.com/Evavic44/portfolio-ideas)
+
+---
+
+## GUIDES
+
+* [FilamentPHP Guides](https://github.com/andreia/filamentphp-guides)
+
+---
+
+## CHEAT SHEETS
+
+* [Cheat Sheets](https://github.com/andreia/cheat-sheets)
+* [Symfony Cheat Sheets](https://github.com/andreia/symfony-cheat-sheets)
+* [Uppy Cheat Sheets](https://github.com/andreia/uppy-cheat-sheet)
 
 ---
