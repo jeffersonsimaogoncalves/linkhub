@@ -46,6 +46,7 @@
 * [Lara Zeus Demo](https://github.com/lara-zeus/demo)
 * [LaraTrust Admin Painel](https://github.com/hafitzrizki/laratrust-adminpanel)
 * [Seminar Library Management System Laravel](https://github.com/SajeebChakraborty/Seminar_Library_Management_System_Laravel)
+* [Handesk](https://github.com/BadChoice/handesk)
 
 ---
 
