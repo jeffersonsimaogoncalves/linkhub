@@ -33,6 +33,17 @@
 * [Filament Drafts](https://github.com/GuavaCZ/filament-drafts)
 * [Filament Tailwind Color Picker](https://github.com/happytodev/filament-tailwind-color-picker)
 * [Filament Knowledge Base](https://github.com/GuavaCZ/filament-knowledge-base)
+* [Filament Simple Light Box](https://github.com/solutionforest/Filament-SimpleLightBox)
+* [Filament Login Screen](https://github.com/solutionforest/FilamentLoginScreen)
+* [Filament Tree](https://github.com/solutionforest/filament-tree)
+* [Filament Access Management](https://github.com/solutionforest/filament-access-management)
+* [Filament Firewall](https://github.com/solutionforest/filament-firewall)
+* [Filament Translate Field](https://github.com/solutionforest/filament-translate-field)
+* [Filament Tab Plugin](https://github.com/solutionforest/filament-tab-plugin)
+* [Filament Email 2FA](https://github.com/solutionforest/filament-email-2fa)
+* [Filament Time Range Picker](https://github.com/solutionforest/filament-time-range-picker)
+* [Filament Pill Select](https://github.com/solutionforest/filament-pill-select)
+* 
 
 ---
 
