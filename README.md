@@ -9,7 +9,7 @@
 
 ---
 
-## ANDROID AWESOME
+### ANDROID AWESOME
 
 * [ANDROID](https://github.com/JStumpp/awesome-android)
 * [ANDROID SECURITY](https://github.com/ashishb/android-security-awesome)
@@ -18,7 +18,8 @@
 * [AWESOME ANDROID APPS](https://github.com/Psyhackological/AAA)
 
 ---
-## FRONTEND AWESOME
+
+### FRONTEND AWESOME
 
 * [CSS LEARNING](https://github.com/micromata/awesome-css-learning)
 * [HTML 5](https://github.com/diegocard/awesome-html5)
@@ -31,21 +32,22 @@
 * [ICONS](https://github.com/vkarampinis/awesome-icons)
 
 ---
-## GIT AWESOME
+
+### GIT AWESOME
 
 * [GIT](https://github.com/dictcp/awesome-git)
 * [GIT ADDONS](https://github.com/stevemao/awesome-git-addons)
 
 ---
 
-## LARAVEL AWESOME
+### LARAVEL AWESOME
 
 * [CHIRAGGUDE - LARAVEL](https://github.com/chiraggude/awesome-laravel)
 * [TIMOTHYDJONES - LARAVEL](https://github.com/TimothyDJones/awesome-laravel)
 
 ---
 
-## ROADMAP AWESOME
+### ROADMAP AWESOME
 
 * [LUIUCHONG - ROADMAPS](https://github.com/liuchong/awesome-roadmaps)
 * [ORSANAWWAD - ROADMAPS](https://github.com/orsanawwad/awesome-roadmaps)
@@ -87,7 +89,7 @@
 
 ---
 
-## LARAVEL
+### LARAVEL
 
 * [Laravel](https://laravel.com)
 * [Laravel Artisan Cheatsheet](https://artisan.page/)
@@ -120,13 +122,13 @@
 
 ---
 
-## LARAVEL PULSE
+#### LARAVEL PULSE
 
 * [Requests Graph Pulse](https://github.com/paulo-hortelan/requests-graph-pulse)
 
 ---
 
-## LIVEWIRE
+#### LIVEWIRE
 
 * [Laravel Livewire](https://laravel-livewire.com/)
 * [Tallstack UI](https://tallstackui.com/)
@@ -140,7 +142,7 @@
 
 ---
 
-## FILAMENT PHP
+#### FILAMENT PHP
 
 * [Filament Livestream: Pet Clinic Admin Panel - New Project](https://www.youtube.com/playlist?list=PLgsruFcRiyk1jO4IgWbd6xw0tWM8TmlvS)
 * [Build a CMS with Filament 3 and Laravel 10](https://www.youtube.com/playlist?list=PLjCZ5YN4HlacfJ_CR-CkwVBKWGC-z5_T-)
@@ -189,7 +191,7 @@
 
 ---
 
-### TomatoPHP - Filament Plugins
+##### TomatoPHP - Filament Plugins
 
 * [Filament Accounts](https://github.com/tomatophp/filament-accounts)
 * [Filament Alerts](https://github.com/tomatophp/filament-alerts)
@@ -220,7 +222,7 @@
 
 ---
 
-## LARAVEL NOVA
+#### LARAVEL NOVA
 
 * [Laravel Nova](https://nova.laravel.com)
 * [Nova Packages](https://novapackages.com/)
@@ -230,7 +232,7 @@
 
 ---
 
-## START KIT LARAVEL
+#### START KIT LARAVEL
 
 * [Freezer Control](https://github.com/icarojobs/freezer-control)
 * [SleepingOwlAdmin](https://github.com/LaravelRUS/SleepingOwlAdmin)
@@ -282,7 +284,7 @@
 
 ---
 
-## FILAMENT PHP
+#### FILAMENT PHP
 
 * [Curso Laravel Relacionamentos Tabelas](https://github.com/especializati/curso-laravel-relacionamentos-tabelas)
 
@@ -324,14 +326,14 @@
 
 ---
 
-## NEXTJS
+### NEXTJS
 
 * [Next.js](https://nextjs.org/)
 * [GeoConectar](https://github.com/nicollekoetzler/GeoConectar)
 
 ---
 
-## TAILWINDCSS
+### TAILWINDCSS
 
 * [Tailblocks](https://github.com/mertJF/tailblocks)
 * [Flowbite](https://flowbite.com/)
@@ -342,7 +344,7 @@
 
 ---
 
-## VITE
+### VITE
 
 * [Vite Tauri Template](https://github.com/yooneskh/vite-tauri-template)
 
