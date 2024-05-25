@@ -245,7 +245,6 @@
 * [Filament Pill Select](https://github.com/solutionforest/filament-pill-select)
 * [Filament Timezone Field](https://github.com/TappNetwork/filament-timezone-field)
 * [Filament Spatie Roles Permissions](https://github.com/Althinect/filament-spatie-roles-permissions)
-*
 
 ---
 
