@@ -340,6 +340,7 @@
 * [Handesk](https://github.com/BadChoice/handesk)
 * [Shopavel](https://github.com/MeesyBE/Shopavel)
 * [Laravel Reverb Chat Support](https://github.com/LaravelDaily/laravel-reverb-chat-support)
+* [Materio Bootstrap Html Laravel Admin Template Free](https://github.com/themeselection/materio-bootstrap-html-laravel-admin-template-free)
 
 ---
 
