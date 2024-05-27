@@ -167,6 +167,7 @@
 * [Filament Logger](https://github.com/z3d0x/filament-logger)
 * [Filament Postal Code](https://github.com/rmsramos/postal-code)
 * [Filament Reports](https://github.com/eighty9nine/filament-reports)
+* [Filament Approvals](https://github.com/eighty9nine/filament-approvals)
 
 ---
 
