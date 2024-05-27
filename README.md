@@ -1,91 +1,5 @@
 ![linkhub.png](images/linkhub.png)
 
-## AWESOME
-
-* [FILAMENT PHP](https://github.com/spekulatius/awesome-filament)
-* [PHP](https://github.com/ziadoz/awesome-php)
-* [EMAILS](https://github.com/jonathandion/awesome-emails)
-* [SEO](https://github.com/madawei2699/awesome-seo)
-* [Symfony](https://github.com/andreia/awesome-symfony)
-* [Doctrine](https://github.com/andreia/awesome-doctrine)
-* [Twig](https://github.com/andreia/awesome-twig)
-
----
-
-### ANDROID AWESOME
-
-* [ANDROID](https://github.com/JStumpp/awesome-android)
-* [ANDROID SECURITY](https://github.com/ashishb/android-security-awesome)
-* [ANDROID TIPS](https://github.com/jiang111/awesome-android-tips)
-* [ANDROID KOTLIN APPS](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
-* [AWESOME ANDROID APPS](https://github.com/Psyhackological/AAA)
-
----
-
-### FRONTEND AWESOME
-
-* [CSS LEARNING](https://github.com/micromata/awesome-css-learning)
-* [HTML 5](https://github.com/diegocard/awesome-html5)
-* [TAILWINDCSS](https://github.com/aniftyco/awesome-tailwindcss)
-* [VITE](https://github.com/vitejs/awesome-vite)
-* [FRONTEND](https://github.com/JingwenTian/awesome-frontend)
-* [UIKIT](https://github.com/jaywcjlove/awesome-uikit)
-* [BOOTSTRAP](https://github.com/awesome-bootstrap-org/awesome-bootstrap)
-* [SHADCN UI](https://github.com/birobirobiro/awesome-shadcn-ui)
-* [ICONS](https://github.com/vkarampinis/awesome-icons)
-
----
-
-### GIT AWESOME
-
-* [GIT](https://github.com/dictcp/awesome-git)
-* [GIT ADDONS](https://github.com/stevemao/awesome-git-addons)
-
----
-
-### LARAVEL AWESOME
-
-* [CHIRAGGUDE - LARAVEL](https://github.com/chiraggude/awesome-laravel)
-* [TIMOTHYDJONES - LARAVEL](https://github.com/TimothyDJones/awesome-laravel)
-
----
-
-### ROADMAP AWESOME
-
-* [LUIUCHONG - ROADMAPS](https://github.com/liuchong/awesome-roadmaps)
-* [ORSANAWWAD - ROADMAPS](https://github.com/orsanawwad/awesome-roadmaps)
-
----
-
-## TOOLS
-
-* [JWT](https://jwt.io)
-* [Packagist](https://packagist.org)
-* [Composer](https://getcomposer.org)
-* [Git](https://git-scm.com)
-* [Repman](https://repman.io)
-* [Bugsnag](https://bugsnag.com)
-* [Centrifuge](https://github.com/centrifugal/centrifuge)
-* [Kool](https://github.com/kool-dev/kool)
-* [Devilbox](https://github.com/cytopia/devilbox)
-* [ASDF](https://github.com/asdf-vm/asdf)
-* [TLDR](https://github.com/tldr-pages/tldr)
-
----
-
-## HTTP SERVER
-
-* [Caddy](https://github.com/caddyserver/caddy)
-* [Franken PHP](https://github.com/dunglas/frankenphp)
-
----
-
-## GITHUB ACTIONS
-
-* [Release Please Action](https://github.com/google-github-actions/release-please-action)
-
----
-
 ## PHP
 
 * [FLARUM](https://github.com/flarum/flarum)
@@ -245,6 +159,8 @@
 * [Filament Pill Select](https://github.com/solutionforest/filament-pill-select)
 * [Filament Timezone Field](https://github.com/TappNetwork/filament-timezone-field)
 * [Filament Spatie Roles Permissions](https://github.com/Althinect/filament-spatie-roles-permissions)
+* [Filament Activitylog](https://github.com/rmsramos/activitylog)
+* [Filament Logger](https://github.com/z3d0x/filament-logger)
 
 ---
 
@@ -560,5 +476,91 @@
 * [Cheat Sheets](https://github.com/andreia/cheat-sheets)
 * [Symfony Cheat Sheets](https://github.com/andreia/symfony-cheat-sheets)
 * [Uppy Cheat Sheets](https://github.com/andreia/uppy-cheat-sheet)
+
+---
+
+## AWESOME
+
+* [FILAMENT PHP](https://github.com/spekulatius/awesome-filament)
+* [PHP](https://github.com/ziadoz/awesome-php)
+* [EMAILS](https://github.com/jonathandion/awesome-emails)
+* [SEO](https://github.com/madawei2699/awesome-seo)
+* [Symfony](https://github.com/andreia/awesome-symfony)
+* [Doctrine](https://github.com/andreia/awesome-doctrine)
+* [Twig](https://github.com/andreia/awesome-twig)
+
+---
+
+### ANDROID AWESOME
+
+* [ANDROID](https://github.com/JStumpp/awesome-android)
+* [ANDROID SECURITY](https://github.com/ashishb/android-security-awesome)
+* [ANDROID TIPS](https://github.com/jiang111/awesome-android-tips)
+* [ANDROID KOTLIN APPS](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
+* [AWESOME ANDROID APPS](https://github.com/Psyhackological/AAA)
+
+---
+
+### FRONTEND AWESOME
+
+* [CSS LEARNING](https://github.com/micromata/awesome-css-learning)
+* [HTML 5](https://github.com/diegocard/awesome-html5)
+* [TAILWINDCSS](https://github.com/aniftyco/awesome-tailwindcss)
+* [VITE](https://github.com/vitejs/awesome-vite)
+* [FRONTEND](https://github.com/JingwenTian/awesome-frontend)
+* [UIKIT](https://github.com/jaywcjlove/awesome-uikit)
+* [BOOTSTRAP](https://github.com/awesome-bootstrap-org/awesome-bootstrap)
+* [SHADCN UI](https://github.com/birobirobiro/awesome-shadcn-ui)
+* [ICONS](https://github.com/vkarampinis/awesome-icons)
+
+---
+
+### GIT AWESOME
+
+* [GIT](https://github.com/dictcp/awesome-git)
+* [GIT ADDONS](https://github.com/stevemao/awesome-git-addons)
+
+---
+
+### LARAVEL AWESOME
+
+* [CHIRAGGUDE - LARAVEL](https://github.com/chiraggude/awesome-laravel)
+* [TIMOTHYDJONES - LARAVEL](https://github.com/TimothyDJones/awesome-laravel)
+
+---
+
+### ROADMAP AWESOME
+
+* [LUIUCHONG - ROADMAPS](https://github.com/liuchong/awesome-roadmaps)
+* [ORSANAWWAD - ROADMAPS](https://github.com/orsanawwad/awesome-roadmaps)
+
+---
+
+## TOOLS
+
+* [JWT](https://jwt.io)
+* [Packagist](https://packagist.org)
+* [Composer](https://getcomposer.org)
+* [Git](https://git-scm.com)
+* [Repman](https://repman.io)
+* [Bugsnag](https://bugsnag.com)
+* [Centrifuge](https://github.com/centrifugal/centrifuge)
+* [Kool](https://github.com/kool-dev/kool)
+* [Devilbox](https://github.com/cytopia/devilbox)
+* [ASDF](https://github.com/asdf-vm/asdf)
+* [TLDR](https://github.com/tldr-pages/tldr)
+
+---
+
+## HTTP SERVER
+
+* [Caddy](https://github.com/caddyserver/caddy)
+* [Franken PHP](https://github.com/dunglas/frankenphp)
+
+---
+
+## GITHUB ACTIONS
+
+* [Release Please Action](https://github.com/google-github-actions/release-please-action)
 
 ---
