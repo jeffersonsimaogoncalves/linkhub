@@ -9,6 +9,10 @@
 
 ### LARAVEL
 
+* [Curso Laravel Relacionamentos Tabelas](https://github.com/especializati/curso-laravel-relacionamentos-tabelas)
+
+---
+
 * [Laravel](https://laravel.com)
 * [Laravel News](https://laravel-news.com)
 * [Laravel Partners](https://partners.laravel.com)
@@ -258,12 +262,6 @@
 * [Shopavel](https://github.com/MeesyBE/Shopavel)
 * [Laravel Reverb Chat Support](https://github.com/LaravelDaily/laravel-reverb-chat-support)
 * [Materio Bootstrap Html Laravel Admin Template Free](https://github.com/themeselection/materio-bootstrap-html-laravel-admin-template-free)
-
----
-
-#### FILAMENT PHP
-
-* [Curso Laravel Relacionamentos Tabelas](https://github.com/especializati/curso-laravel-relacionamentos-tabelas)
 
 ---
 
