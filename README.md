@@ -340,6 +340,7 @@
 * [Seminar Library Management System Laravel](https://github.com/SajeebChakraborty/Seminar_Library_Management_System_Laravel)
 * [Handesk](https://github.com/BadChoice/handesk)
 * [Shopavel](https://github.com/MeesyBE/Shopavel)
+* [Laravel Reverb Chat Support](https://github.com/LaravelDaily/laravel-reverb-chat-support)
 
 ---
 
