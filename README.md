@@ -161,6 +161,7 @@
 * [Filament Spatie Roles Permissions](https://github.com/Althinect/filament-spatie-roles-permissions)
 * [Filament Activitylog](https://github.com/rmsramos/activitylog)
 * [Filament Logger](https://github.com/z3d0x/filament-logger)
+* [Filament Postal Code](https://github.com/rmsramos/postal-code)
 
 ---
 
