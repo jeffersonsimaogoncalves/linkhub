@@ -27,7 +27,6 @@
 * [CSS LEARNING](https://github.com/micromata/awesome-css-learning)
 * [HTML 5](https://github.com/diegocard/awesome-html5)
 * [TAILWINDCSS](https://github.com/aniftyco/awesome-tailwindcss)
-* [TAILWINDCSS COLOR GENERATOR](https://uicolors.app)
 * [VITE](https://github.com/vitejs/awesome-vite)
 * [FRONTEND](https://github.com/JingwenTian/awesome-frontend)
 * [UIKIT](https://github.com/jaywcjlove/awesome-uikit)
@@ -527,6 +526,7 @@
 * [Tailwindui](https://tailwindui.com)
 * [Tailwind CSS](https://tailwindcss.com)
 * [Tailwind Elements](https://tailwind-elements.com)
+* [TAILWINDCSS COLOR GENERATOR](https://uicolors.app)
 
 ---
 
