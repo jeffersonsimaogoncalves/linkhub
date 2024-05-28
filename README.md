@@ -91,6 +91,8 @@
 * [Laravel Firewall](https://github.com/akaunting/laravel-firewall)
 * [Laravel Google Captcha](https://github.com/thinhbuzz/laravel-google-captcha)
 * [Laravel Backpack CRUD](https://github.com/Laravel-Backpack/CRUD)
+* [Laravel JS Validation](https://github.com/proengsoft/laravel-jsvalidation)
+* [Laravel Sweet Alert](https://github.com/uxweb/sweet-alert)
 
 ---
 
@@ -551,6 +553,7 @@
 * [Devilbox](https://github.com/cytopia/devilbox)
 * [ASDF](https://github.com/asdf-vm/asdf)
 * [TLDR](https://github.com/tldr-pages/tldr)
+* [Deployer](https://github.com/deployphp/deployer)
 
 ---
 
