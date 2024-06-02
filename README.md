@@ -494,11 +494,22 @@
 * [Doctrine](https://github.com/andreia/awesome-doctrine)
 * [Twig](https://github.com/andreia/awesome-twig)
 * [Livewire](https://github.com/imliam/awesome-livewire)
+* [Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
+
+---
+
+### ANDROID
+
 * [ANDROID](https://github.com/JStumpp/awesome-android)
 * [ANDROID SECURITY](https://github.com/ashishb/android-security-awesome)
 * [ANDROID TIPS](https://github.com/jiang111/awesome-android-tips)
 * [ANDROID KOTLIN APPS](https://github.com/androiddevnotes/awesome-android-kotlin-apps)
 * [AWESOME ANDROID APPS](https://github.com/Psyhackological/AAA)
+
+---
+
+### FRONTEND
+
 * [CSS LEARNING](https://github.com/micromata/awesome-css-learning)
 * [HTML 5](https://github.com/diegocard/awesome-html5)
 * [TAILWINDCSS](https://github.com/aniftyco/awesome-tailwindcss)
@@ -508,10 +519,25 @@
 * [BOOTSTRAP](https://github.com/awesome-bootstrap-org/awesome-bootstrap)
 * [SHADCN UI](https://github.com/birobirobiro/awesome-shadcn-ui)
 * [ICONS](https://github.com/vkarampinis/awesome-icons)
+
+---
+
+### GIT
+
 * [GIT](https://github.com/dictcp/awesome-git)
 * [GIT ADDONS](https://github.com/stevemao/awesome-git-addons)
+
+---
+
+### LARAVEL
+
 * [CHIRAGGUDE - LARAVEL](https://github.com/chiraggude/awesome-laravel)
 * [TIMOTHYDJONES - LARAVEL](https://github.com/TimothyDJones/awesome-laravel)
+
+---
+
+### ROADMAPS
+
 * [LUIUCHONG - ROADMAPS](https://github.com/liuchong/awesome-roadmaps)
 * [ORSANAWWAD - ROADMAPS](https://github.com/orsanawwad/awesome-roadmaps)
 
