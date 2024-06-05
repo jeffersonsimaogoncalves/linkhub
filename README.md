@@ -220,6 +220,8 @@
 * [Nova Duplicate Field](https://github.com/MohmmedAshraf/nova-duplicate-field)
 * [Nova Html Field](https://github.com/JoshMoreno/nova-html-field)
 * [Nova Permissions - eminiarts](https://github.com/eminiarts/nova-permissions)
+* [Nova Settings](https://github.com/outl1ne/nova-settings)
+* [Nova Cards](https://github.com/stepanenko3/nova-cards)
 
 ---
 
@@ -478,6 +480,8 @@
 ### VUEJS
 
 * [Vue Api Pagination](https://github.com/especializati/vue-api-pagination)
+* [Vue3 Vite TS Base](https://github.com/alireza0sfr/Vue3-Vite-TS-Base)
+* [Vite Quality](https://github.com/cstuncsik/vitequality)
 
 ---
 
