@@ -268,6 +268,8 @@
 * [Laravel Reverb Chat Support](https://github.com/LaravelDaily/laravel-reverb-chat-support)
 * [Materio Bootstrap Html Laravel Admin Template Free](https://github.com/themeselection/materio-bootstrap-html-laravel-admin-template-free)
 * [Coreui Free Laravel Admin Template](https://github.com/coreui/coreui-free-laravel-admin-template)
+* [Tablar Demo Project](https://github.com/takielias/tablar-demo-project)
+* [Akaunting](https://github.com/akaunting/akaunting)
 
 ---
 
