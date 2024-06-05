@@ -274,6 +274,7 @@
 * [Tablar Demo Project](https://github.com/takielias/tablar-demo-project)
 * [Akaunting](https://github.com/akaunting/akaunting)
 * [Laravel Restaurant Reservation](https://github.com/codewithtonyofficial/laravel-restaurant-reservation)
+* [Coders Shop](https://github.com/designatedcoder/coders_shop)
 
 ---
 
