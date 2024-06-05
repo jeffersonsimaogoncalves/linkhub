@@ -430,6 +430,7 @@
 * [Icones](https://icones.js.org)
 * [Preline UI](https://preline.co)
 * [Shadcn UI](https://github.com/shadcn-ui/ui)
+* [Mazer Admin Dashboard](https://github.com/zuramai/mazer)
 
 ---
 
