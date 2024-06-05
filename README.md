@@ -95,6 +95,7 @@
 * [Laravel Sweet Alert](https://github.com/uxweb/sweet-alert)
 * [Laravel Multiauth](https://github.com/bitfumes/laravel-multiauth)
 * [Laravel Translation](https://github.com/joedixon/laravel-translation)
+* [Laravel Route Interface](https://github.com/CodeTechNL/laravel-route-interface)
 
 ---
 
