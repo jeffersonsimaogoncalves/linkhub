@@ -96,6 +96,7 @@
 * [Laravel Multiauth](https://github.com/bitfumes/laravel-multiauth)
 * [Laravel Translation](https://github.com/joedixon/laravel-translation)
 * [Laravel Route Interface](https://github.com/CodeTechNL/laravel-route-interface)
+* [Laravel Mix Standalone](https://github.com/Muetze42/laravel-mix-standalone)
 
 ---
 
