@@ -278,6 +278,7 @@
 * [Akaunting](https://github.com/akaunting/akaunting)
 * [Laravel Restaurant Reservation](https://github.com/codewithtonyofficial/laravel-restaurant-reservation)
 * [Coders Shop](https://github.com/designatedcoder/coders_shop)
+* [Larawind](https://github.com/miten5/larawind)
 
 ---
 
