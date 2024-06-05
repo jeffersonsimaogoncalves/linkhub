@@ -172,6 +172,7 @@
 * [Filament Approvals](https://github.com/eighty9nine/filament-approvals)
 * [Filament Star Rating](https://github.com/ibrahimBougaoua/filament-rating-star)
 * [Filament Icon Picker](https://github.com/lukas-frey/filament-icon-picker)
+* [Filament Clusters](https://github.com/GuavaCZ/filament-clusters)
 
 ---
 
