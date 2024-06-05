@@ -94,6 +94,7 @@
 * [Laravel JS Validation](https://github.com/proengsoft/laravel-jsvalidation)
 * [Laravel Sweet Alert](https://github.com/uxweb/sweet-alert)
 * [Laravel Multiauth](https://github.com/bitfumes/laravel-multiauth)
+* [Laravel Translation](https://github.com/joedixon/laravel-translation)
 
 ---
 
