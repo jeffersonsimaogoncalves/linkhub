@@ -93,6 +93,7 @@
 * [Laravel Backpack CRUD](https://github.com/Laravel-Backpack/CRUD)
 * [Laravel JS Validation](https://github.com/proengsoft/laravel-jsvalidation)
 * [Laravel Sweet Alert](https://github.com/uxweb/sweet-alert)
+* [Laravel Multiauth](https://github.com/bitfumes/laravel-multiauth)
 
 ---
 
