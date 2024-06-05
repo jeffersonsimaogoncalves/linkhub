@@ -273,6 +273,7 @@
 * [Coreui Free Laravel Admin Template](https://github.com/coreui/coreui-free-laravel-admin-template)
 * [Tablar Demo Project](https://github.com/takielias/tablar-demo-project)
 * [Akaunting](https://github.com/akaunting/akaunting)
+* [Laravel Restaurant Reservation](https://github.com/codewithtonyofficial/laravel-restaurant-reservation)
 
 ---
 
