@@ -467,6 +467,13 @@
 
 * [Vite Tauri Template](https://github.com/yooneskh/vite-tauri-template)
 
+
+---
+
+### VUEJS
+
+* [Vue Api Pagination](https://github.com/especializati/vue-api-pagination)
+
 ---
 
 ## LOREM IPSUM
