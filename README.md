@@ -436,6 +436,7 @@
 * [Preline UI](https://preline.co)
 * [Shadcn UI](https://github.com/shadcn-ui/ui)
 * [Mazer Admin Dashboard](https://github.com/zuramai/mazer)
+* [Tail Admin Dashboard](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template)
 
 ---
 
