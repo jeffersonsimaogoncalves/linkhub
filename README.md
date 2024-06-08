@@ -284,6 +284,7 @@
 * [Coders Shop](https://github.com/designatedcoder/coders_shop)
 * [Larawind](https://github.com/miten5/larawind)
 * [Filament CRM Course](https://github.com/LaravelDaily/Filament-CRM-Course)
+* [FilamentPHP Intranet](https://github.com/elrincondeisma/curso-filamentphp-intranet)
 
 ---
 
