@@ -264,6 +264,7 @@
 * [Filament Clusters](https://github.com/GuavaCZ/filament-clusters)
 * [Filament Spotlight](https://github.com/pxlrbt/filament-spotlight)
 * [Filament Nested List](https://github.com/invaders-xx/filament-nested-list)
+* [Filament Context Menu](https://github.com/aymanalhattami/filament-context-menu)
 
 ---
 
