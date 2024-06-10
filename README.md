@@ -371,6 +371,12 @@
 * [Larawind](https://github.com/miten5/larawind)
 * [Filament CRM Course](https://github.com/LaravelDaily/Filament-CRM-Course)
 * [FilamentPHP Intranet](https://github.com/elrincondeisma/curso-filamentphp-intranet)
+* [Accounting Laravel](https://github.com/liberu-accounting/accounting-laravel)
+* [Automation Laravel](https://github.com/liberu-automation/automation-laravel)
+* [CMS Laravel](https://github.com/liberu-cms/cms-laravel)
+* [Ecommerce Laravel](https://github.com/liberu-ecommerce/ecommerce-laravel)
+* [Maintenance Laravel](https://github.com/liberu-maintenance/maintenance-laravel)
+* [Real Estate Laravel](https://github.com/liberu-real-estate/real-estate-laravel)
 
 ---
 
