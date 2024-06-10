@@ -325,10 +325,8 @@
 * [Plaid](https://github.com/andrewdwallo/plaid)
 * [Laravel Multi DB](https://github.com/uxweb/laravel-multi-db)
 * [School Management System](https://github.com/Samir-Gamal/school-management-system)
-* [Laravel Jetstream CRUD Roles](https://github.com/LaravelDaily/Laravel-Jetstream-CRUD-Roles)
 * [Laravel AdminPanel](https://github.com/FTXInfotech/laravel-adminpanel)
 * [Laravel Starter](https://github.com/antonraharja/laravel-starter)
-* [Laravel Asset Stock Management](https://github.com/LaravelDaily/Laravel-Asset-Stock-Management)
 * [Laracoffee](https://github.com/snykk/Laracoffee)
 * [Laravel Ecommerce](https://github.com/abdulaziz-m5u/laravel-ecommerce)
 * [Hospital System Management](https://github.com/XpertBotTeam/hospital-system-mangment)
@@ -351,7 +349,6 @@
 * [Controle De Estoque](https://github.com/puppe1990/ControleEstoque)
 * [Multi Domain Laravel](https://github.com/DigitalWheat/Multi-Domain-Laravel)
 * [Speedtest Tracker](https://github.com/alexjustesen/speedtest-tracker)
-* [Laravel Breeze Pages Skeleton](https://github.com/LaravelDaily/Laravel-Breeze-Pages-Skeleton)
 * [paper.mary-ui.com](https://github.com/robsontenorio/paper.mary-ui.com)
 * [Basic Crud](https://github.com/MrPunyapal/basic-crud)
 * [Livewire Autocomplete Demo](https://github.com/joshhanley/livewire-autocomplete-demo)
@@ -363,7 +360,6 @@
 * [Seminar Library Management System Laravel](https://github.com/SajeebChakraborty/Seminar_Library_Management_System_Laravel)
 * [Handesk](https://github.com/BadChoice/handesk)
 * [Shopavel](https://github.com/MeesyBE/Shopavel)
-* [Laravel Reverb Chat Support](https://github.com/LaravelDaily/laravel-reverb-chat-support)
 * [Materio Bootstrap Html Laravel Admin Template Free](https://github.com/themeselection/materio-bootstrap-html-laravel-admin-template-free)
 * [Coreui Free Laravel Admin Template](https://github.com/coreui/coreui-free-laravel-admin-template)
 * [Tablar Demo Project](https://github.com/takielias/tablar-demo-project)
@@ -371,7 +367,6 @@
 * [Laravel Restaurant Reservation](https://github.com/codewithtonyofficial/laravel-restaurant-reservation)
 * [Coders Shop](https://github.com/designatedcoder/coders_shop)
 * [Larawind](https://github.com/miten5/larawind)
-* [Filament CRM Course](https://github.com/LaravelDaily/Filament-CRM-Course)
 * [FilamentPHP Intranet](https://github.com/elrincondeisma/curso-filamentphp-intranet)
 * [Accounting Laravel](https://github.com/liberu-accounting/accounting-laravel)
 * [Automation Laravel](https://github.com/liberu-automation/automation-laravel)
@@ -379,6 +374,16 @@
 * [Ecommerce Laravel](https://github.com/liberu-ecommerce/ecommerce-laravel)
 * [Maintenance Laravel](https://github.com/liberu-maintenance/maintenance-laravel)
 * [Real Estate Laravel](https://github.com/liberu-real-estate/real-estate-laravel)
+
+---
+
+##### Laravel Daily
+
+* [Laravel Jetstream CRUD Roles](https://github.com/LaravelDaily/Laravel-Jetstream-CRUD-Roles)
+* [Laravel Breeze Pages Skeleton](https://github.com/LaravelDaily/Laravel-Breeze-Pages-Skeleton)
+* [Laravel Reverb Chat Support](https://github.com/LaravelDaily/laravel-reverb-chat-support)
+* [Laravel Asset Stock Management](https://github.com/LaravelDaily/Laravel-Asset-Stock-Management)
+* [Filament CRM Course](https://github.com/LaravelDaily/Filament-CRM-Course)
 
 ---
 
