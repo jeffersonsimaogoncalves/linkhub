@@ -310,6 +310,7 @@
 * [Nova Permissions - eminiarts](https://github.com/eminiarts/nova-permissions)
 * [Nova Settings](https://github.com/outl1ne/nova-settings)
 * [Nova Cards](https://github.com/stepanenko3/nova-cards)
+* [Nova Medialibrary Field](https://github.com/dmitrybubyakin/nova-medialibrary-field)
 
 ---
 
