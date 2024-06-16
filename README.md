@@ -267,6 +267,7 @@
 * [Filament Spotlight](https://github.com/pxlrbt/filament-spotlight)
 * [Filament Nested List](https://github.com/invaders-xx/filament-nested-list)
 * [Filament Context Menu](https://github.com/aymanalhattami/filament-context-menu)
+* [Filament Relation Manager Component](https://github.com/njxqlus/filament-relation-manager-component)
 
 ---
 
