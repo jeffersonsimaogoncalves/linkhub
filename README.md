@@ -375,6 +375,7 @@
 * [Ecommerce Laravel](https://github.com/liberu-ecommerce/ecommerce-laravel)
 * [Maintenance Laravel](https://github.com/liberu-maintenance/maintenance-laravel)
 * [Real Estate Laravel](https://github.com/liberu-real-estate/real-estate-laravel)
+* [Volt Laravel Dashboard](https://github.com/themesberg/volt-laravel-dashboard)
 
 ---
 
