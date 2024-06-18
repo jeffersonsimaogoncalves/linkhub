@@ -315,6 +315,8 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Filament Users](https://github.com/tomatophp/filament-users)
 * [Filament Wallet](https://github.com/tomatophp/filament-wallet)
 * [Filament Auditing](https://github.com/TappNetwork/filament-auditing)
+* [Filament Navigation](https://github.com/ryangjchandler/filament-navigation)
+* [Filament Browser](https://github.com/3x1io/filament-browser)
 
 ---
 
@@ -334,6 +336,7 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Dependent Filter - jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves/dependent-filter)
 * [Dependent Filter - awesome-nova](https://github.com/awesome-nova/dependent-filter)
 * [Nova Inline Text Field](https://github.com/outl1ne/nova-inline-text-field)
+* [Nova Logs Tool](https://github.com/stepanenko3/nova-logs-tool)
 
 ---
 
@@ -549,6 +552,12 @@ The document in question serves as a comprehensive resource guide for both PHP a
 
 ---
 
+## APP MOBILE
+
+* [Create React Native App](https://github.com/expo/create-react-native-app)
+
+---
+
 ## FRONTEND
 
 * [AlpineJS](https://alpinejs.dev)
@@ -577,6 +586,8 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Classy Elements](https://github.com/hendore/classy-elements)
 * [Html5 Slot Machine](https://github.com/johakr/html5-slot-machine)
 * [CSS Grid Generator](https://github.com/sdras/cssgridgenerator)
+* [Jquery](https://github.com/jquery/jquery)
+* [Tail UI](https://github.com/Fisayomiii/TailUi)
 
 ---
 
@@ -618,6 +629,7 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Vue3 Vite TS Base](https://github.com/alireza0sfr/Vue3-Vite-TS-Base)
 * [Vite Quality](https://github.com/cstuncsik/vitequality)
 * [Vue Toasted](https://github.com/shakee93/vue-toasted)
+* [V Markdown Editor](https://github.com/nasa8x/v-markdown-editor)
 
 ---
 
