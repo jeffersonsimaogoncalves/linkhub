@@ -322,6 +322,7 @@
 * [Nova Cards](https://github.com/stepanenko3/nova-cards)
 * [Nova Medialibrary Field](https://github.com/dmitrybubyakin/nova-medialibrary-field)
 * [Nova Detached Actions](https://github.com/gobrightspot/nova-detached-actions)
+* [Nova Translatable](https://github.com/outl1ne/nova-translatable)
 
 ---
 
