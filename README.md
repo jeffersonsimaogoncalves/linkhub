@@ -388,6 +388,7 @@
 * [Volt Laravel Dashboard](https://github.com/themesberg/volt-laravel-dashboard)
 * [Ticket Laravel](https://github.com/adhiariyadi/Ticket-Laravel)
 * [CoreUI Generator](https://github.com/InfyOmLabs/coreui-generator)
+* [Laravel Vue Ecommerce](https://github.com/w3bdesign/laravel-vue-ecommerce)
 
 ---
 
