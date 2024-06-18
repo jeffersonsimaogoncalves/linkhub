@@ -310,6 +310,7 @@
 * [Filament Types](https://github.com/tomatophp/filament-types)
 * [Filament Users](https://github.com/tomatophp/filament-users)
 * [Filament Wallet](https://github.com/tomatophp/filament-wallet)
+* [Filament Auditing](https://github.com/TappNetwork/filament-auditing)
 
 ---
 
