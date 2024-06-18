@@ -564,6 +564,7 @@
 * [Mazer Admin Dashboard](https://github.com/zuramai/mazer)
 * [Tail Admin Dashboard](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template)
 * [Classy Elements](https://github.com/hendore/classy-elements)
+* [Html5 Slot Machine](https://github.com/johakr/html5-slot-machine)
 
 ---
 
