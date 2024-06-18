@@ -215,6 +215,7 @@
 * [Livewire Rate Limiting](https://github.com/danharrin/livewire-rate-limiting)
 * [Laravel Livewire Tables](https://github.com/kdion4891/laravel-livewire-tables)
 * [Livewire Charts](https://github.com/asantibanez/livewire-charts)
+* [Spotlight](https://github.com/wire-elements/spotlight)
 
 ---
 
