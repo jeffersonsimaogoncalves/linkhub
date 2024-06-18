@@ -283,6 +283,10 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Filament Nested List](https://github.com/invaders-xx/filament-nested-list)
 * [Filament Context Menu](https://github.com/aymanalhattami/filament-context-menu)
 * [Filament Relation Manager Component](https://github.com/njxqlus/filament-relation-manager-component)
+* [Filament Code Field](https://github.com/creagia/filament-code-field)
+* [Filament Multiselect Two Sides](https://github.com/lucasgiovanny/filament-multiselect-two-sides)
+* [Filament Phone Numbers](https://github.com/cheesegrits/filament-phone-numbers)
+* [Filament Toggle Icon Column](https://github.com/archilex/filament-toggle-icon-column)
 
 ---
 
@@ -317,6 +321,9 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Filament Auditing](https://github.com/TappNetwork/filament-auditing)
 * [Filament Navigation](https://github.com/ryangjchandler/filament-navigation)
 * [Filament Browser](https://github.com/3x1io/filament-browser)
+* [Filament Copyactions](https://github.com/webbingbrasil/filament-copyactions)
+* [Filament Signature Pad](https://github.com/savannabits/filament-signature-pad)
+* [Filament Tree](https://github.com/solutionforest/filament-tree)
 
 ---
 
@@ -418,6 +425,7 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Laravel Reverb Chat Support](https://github.com/LaravelDaily/laravel-reverb-chat-support)
 * [Laravel Asset Stock Management](https://github.com/LaravelDaily/Laravel-Asset-Stock-Management)
 * [Filament CRM Course](https://github.com/LaravelDaily/Filament-CRM-Course)
+* [Laravel Filament Admin Course](https://github.com/LaravelDaily/Laravel-Filament-Admin-Course)
 
 ---
 
@@ -557,6 +565,7 @@ The document in question serves as a comprehensive resource guide for both PHP a
 
 * [Create React Native App](https://github.com/expo/create-react-native-app)
 * [React Native Htmlview](https://github.com/jsdf/react-native-htmlview)
+* [Ionic Vue Capacitor](https://github.com/reslear/ionic-vue-capacitor)
 
 ---
 
@@ -623,6 +632,7 @@ The document in question serves as a comprehensive resource guide for both PHP a
 ### VITE
 
 * [Vite Tauri Template](https://github.com/yooneskh/vite-tauri-template)
+* [Vite Quality](https://github.com/cstuncsik/vitequality)
 
 
 ---
