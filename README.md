@@ -568,6 +568,7 @@
 * [Tail Admin Dashboard](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template)
 * [Classy Elements](https://github.com/hendore/classy-elements)
 * [Html5 Slot Machine](https://github.com/johakr/html5-slot-machine)
+* [CSS Grid Generator](https://github.com/sdras/cssgridgenerator)
 
 ---
 
