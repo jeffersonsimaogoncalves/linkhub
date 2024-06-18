@@ -608,6 +608,7 @@
 * [Vue Api Pagination](https://github.com/especializati/vue-api-pagination)
 * [Vue3 Vite TS Base](https://github.com/alireza0sfr/Vue3-Vite-TS-Base)
 * [Vite Quality](https://github.com/cstuncsik/vitequality)
+* [Vue Toasted](https://github.com/shakee93/vue-toasted)
 
 ---
 
