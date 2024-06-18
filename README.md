@@ -1,5 +1,9 @@
 ![linkhub.png](images/linkhub.png)
 
+# LINKHUB
+
+The document in question serves as a comprehensive resource guide for both PHP and Laravel. It includes references to general PHP libraries, detailed Laravel documentation, and a broad range of Laravel packages that contribute to various functional aspects of development. Additionally, this document provides numerous links to other tools and packages connected to Laravel. Therefore, the document is an essential asset, providing extensive guidance for those participating in PHP and Laravel development.
+
 ## PHP
 
 * [FLARUM](https://github.com/flarum/flarum)
