@@ -397,6 +397,7 @@
 * [CoreUI Generator](https://github.com/InfyOmLabs/coreui-generator)
 * [Laravel Vue Ecommerce](https://github.com/w3bdesign/laravel-vue-ecommerce)
 * [PingCRM Svelte](https://github.com/zgabievi/pingcrm-svelte)
+* [Laravel Gentelella Admin Theme](https://github.com/Labs64/laravel-boilerplate)
 
 ---
 
