@@ -81,7 +81,6 @@
 * [Laravel Magic Login](https://github.com/maize-tech/laravel-magic-login)
 * [Laravel Migration Views](https://github.com/staudenmeir/laravel-migration-views)
 * [Explore Laravel](https://github.com/chandan-ojha/explore-laravel)
-* [RHEA](https://github.com/lara-zeus/rhea)
 * [Laravel Heyman](https://github.com/imanghafoori1/laravel-heyman)
 * [Laradumps](https://github.com/laradumps/laradumps)
 * [Laravel Translations](https://github.com/MohmmedAshraf/laravel-translations)
@@ -99,6 +98,15 @@
 * [Laravel Mix Standalone](https://github.com/Muetze42/laravel-mix-standalone)
 * [Laravel Rateable](https://github.com/willvincent/laravel-rateable)
 * [LaraPersonate](https://github.com/OctopyID/LaraPersonate)
+
+---
+
+#### Lara Zeus
+
+* [Artemis](https://github.com/lara-zeus/artemis)
+* [Tartarus](https://github.com/lara-zeus/tartarus)
+* [Lara Zeus Demo](https://github.com/lara-zeus/demo)
+* [RHEA](https://github.com/lara-zeus/rhea)
 
 ---
 
@@ -235,7 +243,6 @@
 * [Filament Queueable Bulk Actions](https://github.com/bytexr/filament-queueable-bulk-actions)
 * [Filament Modules](https://github.com/savannabits/filament-modules)
 * [Filament Env Editor](https://github.com/GeoSot/filament-env-editor)
-* [Tartarus](https://github.com/lara-zeus/tartarus)
 * [Filament Rating](https://github.com/mokhosh/filament-rating)
 * [Filament Plugin Skeleton](https://github.com/filamentphp/plugin-skeleton)
 * [Filament Json Editor](https://github.com/invaders-xx/filament-jsoneditor)
@@ -360,7 +367,6 @@
 * [Multi Step Form Using Laravel Livewire](https://github.com/mberecall/Multi-Step-Form-Using-Laravel-Livewire)
 * [Laravel Booking App](https://github.com/javedbaloch4/laravel-booking-app)
 * [Tall Stack Todo](https://github.com/euseiphp/tall-stack-todo)
-* [Lara Zeus Demo](https://github.com/lara-zeus/demo)
 * [LaraTrust Admin Painel](https://github.com/hafitzrizki/laratrust-adminpanel)
 * [Seminar Library Management System Laravel](https://github.com/SajeebChakraborty/Seminar_Library_Management_System_Laravel)
 * [Handesk](https://github.com/BadChoice/handesk)
