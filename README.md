@@ -573,6 +573,8 @@
 * [Tailwind CSS](https://tailwindcss.com)
 * [Tailwind Elements](https://tailwind-elements.com)
 * [TAILWINDCSS COLOR GENERATOR](https://uicolors.app)
+* [BoowindCSS](https://github.com/nawazishali/BoowindCSS)
+* [Versoly UI](https://github.com/versoly/versoly-ui)
 
 ---
 
@@ -652,7 +654,6 @@
 * [BOOTSTRAP](https://github.com/awesome-bootstrap-org/awesome-bootstrap)
 * [SHADCN UI](https://github.com/birobirobiro/awesome-shadcn-ui)
 * [ICONS](https://github.com/vkarampinis/awesome-icons)
-* [BoowindCSS](https://github.com/nawazishali/BoowindCSS)
 
 ---
 
