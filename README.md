@@ -588,6 +588,7 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [CSS Grid Generator](https://github.com/sdras/cssgridgenerator)
 * [Jquery](https://github.com/jquery/jquery)
 * [Tail UI](https://github.com/Fisayomiii/TailUi)
+* [Cookie Consent](https://github.com/osano/cookieconsent)
 
 ---
 
