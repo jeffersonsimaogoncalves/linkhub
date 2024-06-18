@@ -98,6 +98,7 @@
 * [Laravel Route Interface](https://github.com/CodeTechNL/laravel-route-interface)
 * [Laravel Mix Standalone](https://github.com/Muetze42/laravel-mix-standalone)
 * [Laravel Rateable](https://github.com/willvincent/laravel-rateable)
+* [LaraPersonate](https://github.com/OctopyID/LaraPersonate)
 
 ---
 
