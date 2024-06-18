@@ -326,6 +326,7 @@
 * [Nova Translatable](https://github.com/outl1ne/nova-translatable)
 * [Dependent Filter - jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves/dependent-filter)
 * [Dependent Filter - awesome-nova](https://github.com/awesome-nova/dependent-filter)
+* [Nova Inline Text Field](https://github.com/outl1ne/nova-inline-text-field)
 
 ---
 
