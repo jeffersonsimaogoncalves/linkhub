@@ -337,6 +337,7 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Dependent Filter - awesome-nova](https://github.com/awesome-nova/dependent-filter)
 * [Nova Inline Text Field](https://github.com/outl1ne/nova-inline-text-field)
 * [Nova Logs Tool](https://github.com/stepanenko3/nova-logs-tool)
+* [Nova Nested Form](https://github.com/yassilah/laravel-nova-nested-form)
 
 ---
 
