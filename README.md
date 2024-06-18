@@ -652,6 +652,7 @@
 * [BOOTSTRAP](https://github.com/awesome-bootstrap-org/awesome-bootstrap)
 * [SHADCN UI](https://github.com/birobirobiro/awesome-shadcn-ui)
 * [ICONS](https://github.com/vkarampinis/awesome-icons)
+* [BoowindCSS](https://github.com/nawazishali/BoowindCSS)
 
 ---
 
