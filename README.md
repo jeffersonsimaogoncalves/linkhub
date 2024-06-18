@@ -99,6 +99,7 @@
 * [Laravel Rateable](https://github.com/willvincent/laravel-rateable)
 * [LaraPersonate](https://github.com/OctopyID/LaraPersonate)
 * [Laravel Blanket](https://github.com/AhmadWaleed/laravel-blanket)
+* [Ladmin](https://github.com/hexters/ladmin)
 
 ---
 
