@@ -379,7 +379,8 @@
 * [Maintenance Laravel](https://github.com/liberu-maintenance/maintenance-laravel)
 * [Real Estate Laravel](https://github.com/liberu-real-estate/real-estate-laravel)
 * [Volt Laravel Dashboard](https://github.com/themesberg/volt-laravel-dashboard)
-* [](https://github.com/adhiariyadi/Ticket-Laravel)
+* [Ticket Laravel](https://github.com/adhiariyadi/Ticket-Laravel)
+* [CoreUI Generator](https://github.com/InfyOmLabs/coreui-generator)
 
 ---
 
