@@ -348,6 +348,20 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Nova Nested Form](https://github.com/yassilah/laravel-nova-nested-form)
 * [Nova Webhooks](https://github.com/dniccum/nova-webhooks)
 * [Nova Searchable Belongs To Filter](https://github.com/oleghalin/nova4-searchable-belongs-to-filter)
+* [Advanced Nova Media Library](https://github.com/ebess/advanced-nova-media-library)
+* [Nova ProgressBar Field](https://github.com/Flatroy/nova-progressbar-field)
+* [Nova SeoTitle](https://github.com/murdercode/Nova4-SeoTitle)
+* [Nova Tinymce Editor](https://github.com/murdercode/Nova4-TinymceEditor)
+
+---
+
+##### Nova - Muetze42
+
+* [Nova Single Resource](https://github.com/Muetze42/nova-single-resource)
+* [Nova BBCode Textarea](https://github.com/Muetze42/nova-bbcode-textarea)
+* [Nova Iframe Popup](https://github.com/Muetze42/nova-iframe-popup)
+* [Nova Secret Field](https://github.com/Muetze42/nova-secret-field)
+* [Nova Values Field](https://github.com/Muetze42/nova-values-field)
 
 ---
 
