@@ -341,15 +341,22 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Nova Duplicate Field](https://github.com/MohmmedAshraf/nova-duplicate-field)
 * [Nova Html Field](https://github.com/JoshMoreno/nova-html-field)
 * [Nova Permissions](https://github.com/eminiarts/nova-permissions)
-* [Nova Cards](https://github.com/stepanenko3/nova-cards)
 * [Nova Medialibrary Field](https://github.com/dmitrybubyakin/nova-medialibrary-field)
 * [Nova Detached Actions](https://github.com/gobrightspot/nova-detached-actions)
 * [Nova Translatable](https://github.com/outl1ne/nova-translatable)
 * [Dependent Filter](https://github.com/awesome-nova/dependent-filter)
-* [Nova Logs Tool](https://github.com/stepanenko3/nova-logs-tool)
 * [Nova Nested Form](https://github.com/yassilah/laravel-nova-nested-form)
 * [Nova Webhooks](https://github.com/dniccum/nova-webhooks)
 * [Nova Searchable Belongs To Filter](https://github.com/oleghalin/nova4-searchable-belongs-to-filter)
+
+---
+
+##### Nova - stepanenko3
+
+* [Nova Markdown](https://github.com/stepanenko3/nova-markdown)
+* [Nova Logs Tool](https://github.com/stepanenko3/nova-logs-tool)
+* [Nova Cards](https://github.com/stepanenko3/nova-cards)
+* [Nova Image Tags](https://github.com/stepanenko3/nova-image-tags)
 
 ---
 
