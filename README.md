@@ -347,8 +347,27 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Nova Nested Form](https://github.com/yassilah/laravel-nova-nested-form)
 * [Nova Webhooks](https://github.com/dniccum/nova-webhooks)
 * [Nova Card Html](https://github.com/jeffersonsimaogoncalves/nova-card-html)
-* [Batch Edit Toolbar](https://github.com/dcasia/batch-edit-toolbar)
+* [Nova Page Manager](https://github.com/outl1ne/nova-page-manager)
+
+---
+
+##### Nova - dcasia
+
+* [Nova Dashboard](https://github.com/dcasia/nova-dashboard)
+* [Nova Welcome Card](https://github.com/dcasia/nova-welcome-card)
+* [Icon Action Toolbar](https://github.com/dcasia/icon-action-toolbar)
 * [Expandable Table Row](https://github.com/dcasia/expandable-table-row)
+* [Collapsible Resource Manager](https://github.com/dcasia/collapsible-resource-manager)
+* [Resource Navigation Tab](https://github.com/dcasia/resource-navigation-tab)
+* [Resource Navigation Link](https://github.com/dcasia/resource-navigation-link)
+* [Nova Mega Filter](https://github.com/dcasia/nova-mega-filter)
+* [Nova Pill Filter](https://github.com/dcasia/nova-pill-filter)
+* [Nova Slider Filter](https://github.com/dcasia/nova-slider-filter)
+* [Nova Range Input Filter](https://github.com/dcasia/nova-range-input-filter)
+* [Nova Filepond](https://github.com/dcasia/nova-filepond)
+* [Custom Relationship Field](https://github.com/dcasia/custom-relationship-field)
+* [Column Toggler](https://github.com/dcasia/column-toggler)
+* [Batch Edit Toolbar](https://github.com/dcasia/batch-edit-toolbar)
 
 ---
 
