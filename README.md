@@ -293,6 +293,7 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Filament Multiselect Two Sides](https://github.com/lucasgiovanny/filament-multiselect-two-sides)
 * [Filament Phone Numbers](https://github.com/cheesegrits/filament-phone-numbers)
 * [Filament Toggle Icon Column](https://github.com/archilex/filament-toggle-icon-column)
+* [Filament Image Library](https://github.com/outer-web/filament-image-library)
 
 ---
 
