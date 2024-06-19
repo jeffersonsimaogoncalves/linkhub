@@ -349,6 +349,7 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Nova Logs Tool](https://github.com/stepanenko3/nova-logs-tool)
 * [Nova Nested Form](https://github.com/yassilah/laravel-nova-nested-form)
 * [Nova Webhooks](https://github.com/dniccum/nova-webhooks)
+* [Nova Searchable Belongs To Filter](https://github.com/oleghalin/nova4-searchable-belongs-to-filter)
 
 ---
 
