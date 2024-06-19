@@ -334,20 +334,31 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Nova Permissions - serenysoft](https://github.com/serenysoft/nova-permissions)
 * [Nova Duplicate Field](https://github.com/MohmmedAshraf/nova-duplicate-field)
 * [Nova Html Field](https://github.com/JoshMoreno/nova-html-field)
-* [Nova Permissions - eminiarts](https://github.com/eminiarts/nova-permissions)
-* [Nova Settings](https://github.com/outl1ne/nova-settings)
+* [Nova Permissions](https://github.com/eminiarts/nova-permissions)
 * [Nova Cards](https://github.com/stepanenko3/nova-cards)
 * [Nova Medialibrary Field](https://github.com/dmitrybubyakin/nova-medialibrary-field)
 * [Nova Detached Actions](https://github.com/gobrightspot/nova-detached-actions)
 * [Nova Translatable](https://github.com/outl1ne/nova-translatable)
-* [Dependent Filter - jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves/dependent-filter)
-* [Dependent Filter - awesome-nova](https://github.com/awesome-nova/dependent-filter)
-* [Nova Inline Text Field](https://github.com/outl1ne/nova-inline-text-field)
+* [Dependent Filter](https://github.com/awesome-nova/dependent-filter)
 * [Nova Logs Tool](https://github.com/stepanenko3/nova-logs-tool)
 * [Nova Nested Form](https://github.com/yassilah/laravel-nova-nested-form)
 * [Nova Webhooks](https://github.com/dniccum/nova-webhooks)
-* [Nova Card Html](https://github.com/jeffersonsimaogoncalves/nova-card-html)
+
+---
+
+##### Nova - outl1ne
+
 * [Nova Page Manager](https://github.com/outl1ne/nova-page-manager)
+* [Nova Multiselect Field](https://github.com/outl1ne/nova-multiselect-field)
+* [Nova Inline Text Field](https://github.com/outl1ne/nova-inline-text-field)
+* [Nova Settings](https://github.com/outl1ne/nova-settings)
+
+---
+
+##### Nova - jeffersonsimaogoncalves
+
+* [Nova Card Html](https://github.com/jeffersonsimaogoncalves/nova-card-html)
+* [Dependent Filter](https://github.com/jeffersonsimaogoncalves/dependent-filter)
 
 ---
 
