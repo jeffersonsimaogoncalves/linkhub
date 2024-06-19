@@ -348,6 +348,7 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Nova Webhooks](https://github.com/dniccum/nova-webhooks)
 * [Nova Card Html](https://github.com/jeffersonsimaogoncalves/nova-card-html)
 * [Batch Edit Toolbar](https://github.com/dcasia/batch-edit-toolbar)
+* [Expandable Table Row](https://github.com/dcasia/expandable-table-row)
 
 ---
 
