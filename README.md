@@ -352,6 +352,7 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Nova Multiselect Field](https://github.com/outl1ne/nova-multiselect-field)
 * [Nova Inline Text Field](https://github.com/outl1ne/nova-inline-text-field)
 * [Nova Settings](https://github.com/outl1ne/nova-settings)
+* [Nova Sortable](https://github.com/outl1ne/nova-sortable)
 
 ---
 
@@ -379,6 +380,7 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Custom Relationship Field](https://github.com/dcasia/custom-relationship-field)
 * [Column Toggler](https://github.com/dcasia/column-toggler)
 * [Batch Edit Toolbar](https://github.com/dcasia/batch-edit-toolbar)
+* [ChartJS Widget](https://github.com/dcasia/chartjs-widget)
 
 ---
 
