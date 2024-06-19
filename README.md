@@ -346,6 +346,7 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Nova Logs Tool](https://github.com/stepanenko3/nova-logs-tool)
 * [Nova Nested Form](https://github.com/yassilah/laravel-nova-nested-form)
 * [Nova Webhooks](https://github.com/dniccum/nova-webhooks)
+* [Nova Card Html](https://github.com/jeffersonsimaogoncalves/nova-card-html)
 
 ---
 
