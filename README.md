@@ -488,6 +488,7 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Lara Admin Starter](https://github.com/bpocallaghan/laravel-admin-starter)
 * [Hospital Management System](https://github.com/Samir-Gamal/hospital-management-system)
 * [Laravel Mix Standalone With Tailwind](https://github.com/Muetze42/laravel-mix-standalone-w-tailwind)
+* [Soft UI Dashboard Laravel](https://github.com/creativetimofficial/soft-ui-dashboard-laravel)
 
 ---
 
