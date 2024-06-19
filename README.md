@@ -8,6 +8,8 @@ The document in question serves as a comprehensive resource guide for both PHP a
 
 * [FLARUM](https://github.com/flarum/flarum)
 * [Electron PHP](https://github.com/Padrio/electron-php)
+* [PHP Tools](https://github.com/jeffersonsimaogoncalves/php-tools)
+* [Correios PHP](https://github.com/jeffersonsimaogoncalves/correios-php)
 
 ---
 
@@ -104,6 +106,10 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [LaraPersonate](https://github.com/OctopyID/LaraPersonate)
 * [Laravel Blanket](https://github.com/AhmadWaleed/laravel-blanket)
 * [Ladmin](https://github.com/hexters/ladmin)
+* [Multitenancy](https://github.com/jeffersonsimaogoncalves/Multitenancy)
+* [Laravel Package Manager](https://github.com/jeffersonsimaogoncalves/laravel-package-maker)
+* [laravel Email Database Log](https://github.com/jeffersonsimaogoncalves/laravel-email-database-log)
+* [Laravel Device Tracking](https://github.com/jeffersonsimaogoncalves/laravel-device-tracking)
 
 ---
 
@@ -360,6 +366,13 @@ The document in question serves as a comprehensive resource guide for both PHP a
 
 * [Nova Card Html](https://github.com/jeffersonsimaogoncalves/nova-card-html)
 * [Dependent Filter](https://github.com/jeffersonsimaogoncalves/dependent-filter)
+* [MultiTenancy Nova Tool](https://github.com/jeffersonsimaogoncalves/multitenancy-nova-tool)
+* [Nova Advanced Number Field](https://github.com/jeffersonsimaogoncalves/nova-advanced-number-field)
+* [Nova Enum Field](https://github.com/jeffersonsimaogoncalves/nova-enum-field)
+* [Nova Order Field](https://github.com/jeffersonsimaogoncalves/nova-order-field)
+* [Nova Permission](https://github.com/jeffersonsimaogoncalves/nova-permission)
+* [Nova Sluggable](https://github.com/jeffersonsimaogoncalves/nova-sluggable)
+* [Input Mask](https://github.com/jeffersonsimaogoncalves/input-mask)
 
 ---
 
@@ -462,6 +475,32 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Laravel Asset Stock Management](https://github.com/LaravelDaily/Laravel-Asset-Stock-Management)
 * [Filament CRM Course](https://github.com/LaravelDaily/Filament-CRM-Course)
 * [Laravel Filament Admin Course](https://github.com/LaravelDaily/Laravel-Filament-Admin-Course)
+
+---
+
+### CAKEPHP
+
+* [Property Enum](https://github.com/jeffersonsimaogoncalves/property-enum)
+* [Gravatar Helper](https://github.com/jeffersonsimaogoncalves/gravatar-helper)
+* [Glide Cake](https://github.com/jeffersonsimaogoncalves/glide-cake)
+* [CakePHP Utils](https://github.com/jeffersonsimaogoncalves/cakephp-utils)
+* [CakePHP Utility](https://github.com/jeffersonsimaogoncalves/cakephp-utility)
+* [CakePHP User Activity](https://github.com/jeffersonsimaogoncalves/cakephp-user-activity)
+* [CakePHP Slack Log Engine](https://github.com/jeffersonsimaogoncalves/cakephp-slack-log-engine)
+* [CakePHP Settings](https://github.com/jeffersonsimaogoncalves/cakephp-settings)
+* [CakePHP Server Monitor](https://github.com/jeffersonsimaogoncalves/cakephp-server-monitor)
+* [CakePHP Rest Api](https://github.com/jeffersonsimaogoncalves/cakephp-rest-api)
+* [CakePHP Permission](https://github.com/jeffersonsimaogoncalves/cakephp-permission)
+* [CakePHP Notifier](https://github.com/jeffersonsimaogoncalves/cakephp-notifier)
+* [CakePHP Ldap](https://github.com/jeffersonsimaogoncalves/cakephp-ldap)
+* [CakePHP Fractal Transformer View](https://github.com/jeffersonsimaogoncalves/cakephp-fractal-transformer-view)
+* [CakePHP FieldTypes](https://github.com/jeffersonsimaogoncalves/cakephp-fieldtypes)
+* [CakePHP Datatables](https://github.com/jeffersonsimaogoncalves/cakephp-datatables)
+* [CakePHP Bugsnag](https://github.com/jeffersonsimaogoncalves/cakephp-bugsnag)
+* [CakePHP Auditing](https://github.com/jeffersonsimaogoncalves/cakephp-auditing)
+* [CakePHP Assets](https://github.com/jeffersonsimaogoncalves/cakephp-assets)
+* [CakePHP Api Pagination](https://github.com/jeffersonsimaogoncalves/cakephp-api-pagination)
+* [CakePHP Analyser](https://github.com/jeffersonsimaogoncalves/cakephp-analyzer)
 
 ---
 
