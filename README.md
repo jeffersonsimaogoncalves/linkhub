@@ -702,6 +702,7 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [Tail UI](https://github.com/Fisayomiii/TailUi)
 * [Cookie Consent](https://github.com/osano/cookieconsent)
 * [NPM Check](https://github.com/dylang/npm-check)
+* [DaisyUI](https://github.com/saadeghi/daisyui)
 
 ---
 
