@@ -849,6 +849,8 @@ The document in question serves as a comprehensive resource guide for both PHP a
 * [TLDR](https://github.com/tldr-pages/tldr)
 * [Deployer](https://github.com/deployphp/deployer)
 * [Coolify](https://coolify.io/)
+* [StackBricks](https://stackbricks.app/)
+* [TablePlus](https://tableplus.com/)
 
 ---
 
